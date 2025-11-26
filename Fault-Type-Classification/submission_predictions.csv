@@ -1,0 +1,6401 @@
+id,Fault_Type
+0,Normal
+1,Normal
+2,Normal
+3,Normal
+4,Normal
+5,Bearing Fault
+6,Normal
+7,Normal
+8,Normal
+9,Normal
+10,Bearing Fault
+11,Normal
+12,Normal
+13,Normal
+14,Normal
+15,Normal
+16,Bearing Fault
+17,Normal
+18,Normal
+19,Normal
+20,Normal
+21,Normal
+22,Normal
+23,Normal
+24,Normal
+25,Bearing Fault
+26,Bearing Fault
+27,Bearing Fault
+28,Normal
+29,Normal
+30,Normal
+31,Normal
+32,Normal
+33,Normal
+34,Normal
+35,Normal
+36,Normal
+37,Normal
+38,Bearing Fault
+39,Normal
+40,Normal
+41,Normal
+42,Normal
+43,Normal
+44,Normal
+45,Normal
+46,Normal
+47,Normal
+48,Normal
+49,Normal
+50,Normal
+51,Normal
+52,Normal
+53,Normal
+54,Normal
+55,Normal
+56,Bearing Fault
+57,Normal
+58,Normal
+59,Normal
+60,Normal
+61,Bearing Fault
+62,Normal
+63,Normal
+64,Normal
+65,Normal
+66,Normal
+67,Normal
+68,Normal
+69,Normal
+70,Normal
+71,Bearing Fault
+72,Normal
+73,Normal
+74,Normal
+75,Normal
+76,Bearing Fault
+77,Normal
+78,Normal
+79,Bearing Fault
+80,Normal
+81,Bearing Fault
+82,Normal
+83,Imbalance
+84,Normal
+85,Normal
+86,Bearing Fault
+87,Normal
+88,Normal
+89,Normal
+90,Bearing Fault
+91,Normal
+92,Normal
+93,Bearing Fault
+94,Normal
+95,Normal
+96,Bearing Fault
+97,Bearing Fault
+98,Normal
+99,Normal
+100,Normal
+101,Normal
+102,Normal
+103,Bearing Fault
+104,Normal
+105,Normal
+106,Normal
+107,Normal
+108,Bearing Fault
+109,Bearing Fault
+110,Normal
+111,Normal
+112,Imbalance
+113,Normal
+114,Normal
+115,Normal
+116,Normal
+117,Bearing Fault
+118,Normal
+119,Normal
+120,Bearing Fault
+121,Imbalance
+122,Bearing Fault
+123,Normal
+124,Normal
+125,Normal
+126,Bearing Fault
+127,Normal
+128,Normal
+129,Normal
+130,Normal
+131,Normal
+132,Bearing Fault
+133,Normal
+134,Bearing Fault
+135,Normal
+136,Normal
+137,Normal
+138,Normal
+139,Bearing Fault
+140,Normal
+141,Normal
+142,Normal
+143,Normal
+144,Normal
+145,Normal
+146,Normal
+147,Imbalance
+148,Imbalance
+149,Normal
+150,Normal
+151,Normal
+152,Bearing Fault
+153,Bearing Fault
+154,Normal
+155,Normal
+156,Normal
+157,Bearing Fault
+158,Normal
+159,Normal
+160,Normal
+161,Bearing Fault
+162,Bearing Fault
+163,Normal
+164,Bearing Fault
+165,Normal
+166,Normal
+167,Normal
+168,Normal
+169,Bearing Fault
+170,Normal
+171,Normal
+172,Normal
+173,Bearing Fault
+174,Normal
+175,Normal
+176,Normal
+177,Normal
+178,Normal
+179,Bearing Fault
+180,Normal
+181,Normal
+182,Bearing Fault
+183,Normal
+184,Normal
+185,Normal
+186,Bearing Fault
+187,Normal
+188,Bearing Fault
+189,Normal
+190,Bearing Fault
+191,Normal
+192,Imbalance
+193,Bearing Fault
+194,Normal
+195,Normal
+196,Normal
+197,Normal
+198,Normal
+199,Bearing Fault
+200,Normal
+201,Normal
+202,Normal
+203,Normal
+204,Normal
+205,Normal
+206,Normal
+207,Normal
+208,Normal
+209,Normal
+210,Normal
+211,Bearing Fault
+212,Normal
+213,Normal
+214,Normal
+215,Normal
+216,Normal
+217,Normal
+218,Normal
+219,Normal
+220,Normal
+221,Normal
+222,Normal
+223,Normal
+224,Imbalance
+225,Normal
+226,Normal
+227,Bearing Fault
+228,Normal
+229,Bearing Fault
+230,Normal
+231,Bearing Fault
+232,Normal
+233,Normal
+234,Normal
+235,Imbalance
+236,Bearing Fault
+237,Bearing Fault
+238,Normal
+239,Normal
+240,Normal
+241,Normal
+242,Bearing Fault
+243,Normal
+244,Normal
+245,Normal
+246,Normal
+247,Normal
+248,Normal
+249,Normal
+250,Normal
+251,Normal
+252,Bearing Fault
+253,Normal
+254,Normal
+255,Normal
+256,Imbalance
+257,Bearing Fault
+258,Normal
+259,Bearing Fault
+260,Normal
+261,Normal
+262,Normal
+263,Bearing Fault
+264,Normal
+265,Normal
+266,Normal
+267,Normal
+268,Normal
+269,Normal
+270,Normal
+271,Normal
+272,Normal
+273,Normal
+274,Normal
+275,Normal
+276,Normal
+277,Bearing Fault
+278,Normal
+279,Bearing Fault
+280,Normal
+281,Normal
+282,Normal
+283,Normal
+284,Normal
+285,Normal
+286,Normal
+287,Normal
+288,Bearing Fault
+289,Normal
+290,Normal
+291,Normal
+292,Normal
+293,Normal
+294,Normal
+295,Bearing Fault
+296,Normal
+297,Bearing Fault
+298,Imbalance
+299,Bearing Fault
+300,Bearing Fault
+301,Bearing Fault
+302,Bearing Fault
+303,Normal
+304,Normal
+305,Normal
+306,Normal
+307,Bearing Fault
+308,Normal
+309,Normal
+310,Bearing Fault
+311,Bearing Fault
+312,Bearing Fault
+313,Normal
+314,Bearing Fault
+315,Normal
+316,Normal
+317,Normal
+318,Normal
+319,Bearing Fault
+320,Bearing Fault
+321,Bearing Fault
+322,Bearing Fault
+323,Bearing Fault
+324,Normal
+325,Normal
+326,Normal
+327,Normal
+328,Normal
+329,Normal
+330,Bearing Fault
+331,Normal
+332,Imbalance
+333,Bearing Fault
+334,Normal
+335,Normal
+336,Bearing Fault
+337,Imbalance
+338,Normal
+339,Normal
+340,Normal
+341,Bearing Fault
+342,Normal
+343,Bearing Fault
+344,Normal
+345,Normal
+346,Normal
+347,Normal
+348,Bearing Fault
+349,Normal
+350,Normal
+351,Normal
+352,Bearing Fault
+353,Bearing Fault
+354,Bearing Fault
+355,Normal
+356,Imbalance
+357,Bearing Fault
+358,Normal
+359,Normal
+360,Bearing Fault
+361,Bearing Fault
+362,Normal
+363,Normal
+364,Normal
+365,Normal
+366,Normal
+367,Bearing Fault
+368,Normal
+369,Normal
+370,Normal
+371,Normal
+372,Bearing Fault
+373,Imbalance
+374,Normal
+375,Normal
+376,Bearing Fault
+377,Normal
+378,Normal
+379,Bearing Fault
+380,Bearing Fault
+381,Normal
+382,Normal
+383,Normal
+384,Normal
+385,Bearing Fault
+386,Normal
+387,Bearing Fault
+388,Normal
+389,Normal
+390,Normal
+391,Bearing Fault
+392,Bearing Fault
+393,Normal
+394,Normal
+395,Normal
+396,Bearing Fault
+397,Bearing Fault
+398,Normal
+399,Bearing Fault
+400,Normal
+401,Normal
+402,Bearing Fault
+403,Normal
+404,Bearing Fault
+405,Normal
+406,Normal
+407,Normal
+408,Bearing Fault
+409,Bearing Fault
+410,Bearing Fault
+411,Normal
+412,Bearing Fault
+413,Bearing Fault
+414,Normal
+415,Normal
+416,Normal
+417,Normal
+418,Normal
+419,Bearing Fault
+420,Bearing Fault
+421,Normal
+422,Normal
+423,Normal
+424,Normal
+425,Normal
+426,Normal
+427,Normal
+428,Normal
+429,Normal
+430,Normal
+431,Bearing Fault
+432,Imbalance
+433,Bearing Fault
+434,Normal
+435,Normal
+436,Normal
+437,Normal
+438,Normal
+439,Normal
+440,Bearing Fault
+441,Bearing Fault
+442,Normal
+443,Normal
+444,Bearing Fault
+445,Normal
+446,Normal
+447,Normal
+448,Normal
+449,Bearing Fault
+450,Normal
+451,Bearing Fault
+452,Normal
+453,Bearing Fault
+454,Normal
+455,Normal
+456,Bearing Fault
+457,Normal
+458,Normal
+459,Normal
+460,Normal
+461,Normal
+462,Normal
+463,Normal
+464,Normal
+465,Normal
+466,Normal
+467,Normal
+468,Normal
+469,Normal
+470,Normal
+471,Normal
+472,Normal
+473,Normal
+474,Normal
+475,Normal
+476,Normal
+477,Normal
+478,Normal
+479,Bearing Fault
+480,Normal
+481,Bearing Fault
+482,Bearing Fault
+483,Bearing Fault
+484,Normal
+485,Normal
+486,Normal
+487,Bearing Fault
+488,Bearing Fault
+489,Bearing Fault
+490,Normal
+491,Normal
+492,Imbalance
+493,Normal
+494,Imbalance
+495,Normal
+496,Normal
+497,Normal
+498,Normal
+499,Normal
+500,Normal
+501,Normal
+502,Normal
+503,Normal
+504,Bearing Fault
+505,Normal
+506,Bearing Fault
+507,Normal
+508,Bearing Fault
+509,Normal
+510,Normal
+511,Normal
+512,Normal
+513,Bearing Fault
+514,Normal
+515,Normal
+516,Bearing Fault
+517,Normal
+518,Normal
+519,Normal
+520,Normal
+521,Normal
+522,Normal
+523,Normal
+524,Normal
+525,Normal
+526,Bearing Fault
+527,Normal
+528,Bearing Fault
+529,Normal
+530,Normal
+531,Bearing Fault
+532,Normal
+533,Bearing Fault
+534,Bearing Fault
+535,Normal
+536,Normal
+537,Normal
+538,Bearing Fault
+539,Normal
+540,Normal
+541,Imbalance
+542,Normal
+543,Normal
+544,Normal
+545,Bearing Fault
+546,Normal
+547,Normal
+548,Bearing Fault
+549,Bearing Fault
+550,Normal
+551,Bearing Fault
+552,Normal
+553,Normal
+554,Normal
+555,Normal
+556,Bearing Fault
+557,Bearing Fault
+558,Bearing Fault
+559,Normal
+560,Bearing Fault
+561,Normal
+562,Bearing Fault
+563,Normal
+564,Bearing Fault
+565,Normal
+566,Normal
+567,Normal
+568,Normal
+569,Normal
+570,Bearing Fault
+571,Normal
+572,Bearing Fault
+573,Normal
+574,Normal
+575,Normal
+576,Bearing Fault
+577,Normal
+578,Bearing Fault
+579,Normal
+580,Bearing Fault
+581,Bearing Fault
+582,Normal
+583,Bearing Fault
+584,Bearing Fault
+585,Bearing Fault
+586,Normal
+587,Normal
+588,Normal
+589,Bearing Fault
+590,Normal
+591,Normal
+592,Normal
+593,Normal
+594,Normal
+595,Normal
+596,Normal
+597,Normal
+598,Normal
+599,Normal
+600,Bearing Fault
+601,Normal
+602,Bearing Fault
+603,Bearing Fault
+604,Normal
+605,Normal
+606,Normal
+607,Normal
+608,Normal
+609,Normal
+610,Normal
+611,Bearing Fault
+612,Bearing Fault
+613,Bearing Fault
+614,Bearing Fault
+615,Normal
+616,Bearing Fault
+617,Normal
+618,Normal
+619,Normal
+620,Normal
+621,Normal
+622,Normal
+623,Normal
+624,Normal
+625,Bearing Fault
+626,Bearing Fault
+627,Normal
+628,Normal
+629,Normal
+630,Bearing Fault
+631,Normal
+632,Bearing Fault
+633,Normal
+634,Normal
+635,Normal
+636,Normal
+637,Bearing Fault
+638,Normal
+639,Normal
+640,Normal
+641,Normal
+642,Normal
+643,Normal
+644,Normal
+645,Normal
+646,Normal
+647,Bearing Fault
+648,Normal
+649,Imbalance
+650,Normal
+651,Normal
+652,Imbalance
+653,Normal
+654,Normal
+655,Normal
+656,Bearing Fault
+657,Normal
+658,Bearing Fault
+659,Normal
+660,Normal
+661,Bearing Fault
+662,Normal
+663,Imbalance
+664,Normal
+665,Normal
+666,Normal
+667,Bearing Fault
+668,Normal
+669,Normal
+670,Normal
+671,Bearing Fault
+672,Bearing Fault
+673,Normal
+674,Normal
+675,Normal
+676,Normal
+677,Normal
+678,Normal
+679,Normal
+680,Normal
+681,Normal
+682,Imbalance
+683,Bearing Fault
+684,Normal
+685,Bearing Fault
+686,Bearing Fault
+687,Normal
+688,Normal
+689,Normal
+690,Normal
+691,Normal
+692,Normal
+693,Normal
+694,Normal
+695,Normal
+696,Bearing Fault
+697,Normal
+698,Bearing Fault
+699,Normal
+700,Normal
+701,Bearing Fault
+702,Normal
+703,Bearing Fault
+704,Normal
+705,Normal
+706,Normal
+707,Bearing Fault
+708,Normal
+709,Normal
+710,Normal
+711,Normal
+712,Normal
+713,Normal
+714,Normal
+715,Normal
+716,Bearing Fault
+717,Bearing Fault
+718,Normal
+719,Normal
+720,Normal
+721,Normal
+722,Normal
+723,Normal
+724,Normal
+725,Normal
+726,Normal
+727,Bearing Fault
+728,Normal
+729,Normal
+730,Normal
+731,Normal
+732,Bearing Fault
+733,Normal
+734,Normal
+735,Normal
+736,Normal
+737,Normal
+738,Normal
+739,Normal
+740,Normal
+741,Bearing Fault
+742,Bearing Fault
+743,Normal
+744,Imbalance
+745,Normal
+746,Normal
+747,Normal
+748,Normal
+749,Bearing Fault
+750,Normal
+751,Normal
+752,Normal
+753,Normal
+754,Normal
+755,Bearing Fault
+756,Normal
+757,Normal
+758,Bearing Fault
+759,Normal
+760,Normal
+761,Bearing Fault
+762,Bearing Fault
+763,Bearing Fault
+764,Normal
+765,Bearing Fault
+766,Normal
+767,Normal
+768,Bearing Fault
+769,Normal
+770,Bearing Fault
+771,Normal
+772,Bearing Fault
+773,Normal
+774,Normal
+775,Normal
+776,Normal
+777,Normal
+778,Normal
+779,Bearing Fault
+780,Normal
+781,Bearing Fault
+782,Normal
+783,Bearing Fault
+784,Bearing Fault
+785,Normal
+786,Normal
+787,Normal
+788,Normal
+789,Bearing Fault
+790,Bearing Fault
+791,Normal
+792,Bearing Fault
+793,Normal
+794,Bearing Fault
+795,Normal
+796,Normal
+797,Normal
+798,Bearing Fault
+799,Normal
+800,Bearing Fault
+801,Normal
+802,Bearing Fault
+803,Normal
+804,Normal
+805,Normal
+806,Normal
+807,Bearing Fault
+808,Bearing Fault
+809,Bearing Fault
+810,Imbalance
+811,Normal
+812,Normal
+813,Normal
+814,Bearing Fault
+815,Normal
+816,Normal
+817,Normal
+818,Normal
+819,Normal
+820,Normal
+821,Bearing Fault
+822,Normal
+823,Normal
+824,Bearing Fault
+825,Normal
+826,Normal
+827,Normal
+828,Normal
+829,Normal
+830,Normal
+831,Normal
+832,Normal
+833,Normal
+834,Normal
+835,Bearing Fault
+836,Normal
+837,Normal
+838,Normal
+839,Normal
+840,Normal
+841,Normal
+842,Bearing Fault
+843,Normal
+844,Normal
+845,Normal
+846,Normal
+847,Bearing Fault
+848,Bearing Fault
+849,Normal
+850,Normal
+851,Normal
+852,Normal
+853,Normal
+854,Normal
+855,Normal
+856,Normal
+857,Normal
+858,Normal
+859,Normal
+860,Bearing Fault
+861,Normal
+862,Normal
+863,Normal
+864,Normal
+865,Normal
+866,Normal
+867,Normal
+868,Normal
+869,Normal
+870,Normal
+871,Bearing Fault
+872,Bearing Fault
+873,Normal
+874,Normal
+875,Normal
+876,Normal
+877,Normal
+878,Normal
+879,Normal
+880,Bearing Fault
+881,Bearing Fault
+882,Normal
+883,Normal
+884,Imbalance
+885,Normal
+886,Normal
+887,Normal
+888,Normal
+889,Normal
+890,Normal
+891,Bearing Fault
+892,Imbalance
+893,Normal
+894,Bearing Fault
+895,Normal
+896,Imbalance
+897,Normal
+898,Bearing Fault
+899,Normal
+900,Normal
+901,Normal
+902,Normal
+903,Normal
+904,Normal
+905,Bearing Fault
+906,Normal
+907,Bearing Fault
+908,Normal
+909,Bearing Fault
+910,Normal
+911,Normal
+912,Normal
+913,Normal
+914,Normal
+915,Normal
+916,Normal
+917,Normal
+918,Normal
+919,Bearing Fault
+920,Normal
+921,Normal
+922,Normal
+923,Normal
+924,Normal
+925,Normal
+926,Normal
+927,Imbalance
+928,Bearing Fault
+929,Normal
+930,Normal
+931,Normal
+932,Normal
+933,Normal
+934,Normal
+935,Normal
+936,Normal
+937,Normal
+938,Bearing Fault
+939,Normal
+940,Imbalance
+941,Normal
+942,Normal
+943,Normal
+944,Normal
+945,Normal
+946,Normal
+947,Normal
+948,Normal
+949,Normal
+950,Normal
+951,Normal
+952,Normal
+953,Normal
+954,Normal
+955,Normal
+956,Normal
+957,Normal
+958,Normal
+959,Bearing Fault
+960,Normal
+961,Normal
+962,Bearing Fault
+963,Bearing Fault
+964,Normal
+965,Normal
+966,Normal
+967,Normal
+968,Normal
+969,Normal
+970,Bearing Fault
+971,Normal
+972,Normal
+973,Normal
+974,Bearing Fault
+975,Bearing Fault
+976,Normal
+977,Normal
+978,Normal
+979,Normal
+980,Normal
+981,Imbalance
+982,Normal
+983,Bearing Fault
+984,Normal
+985,Normal
+986,Normal
+987,Normal
+988,Normal
+989,Normal
+990,Normal
+991,Normal
+992,Normal
+993,Normal
+994,Bearing Fault
+995,Normal
+996,Normal
+997,Normal
+998,Normal
+999,Normal
+1000,Normal
+1001,Normal
+1002,Normal
+1003,Normal
+1004,Normal
+1005,Normal
+1006,Normal
+1007,Bearing Fault
+1008,Normal
+1009,Normal
+1010,Bearing Fault
+1011,Normal
+1012,Normal
+1013,Normal
+1014,Normal
+1015,Bearing Fault
+1016,Normal
+1017,Normal
+1018,Bearing Fault
+1019,Normal
+1020,Bearing Fault
+1021,Bearing Fault
+1022,Normal
+1023,Normal
+1024,Normal
+1025,Normal
+1026,Normal
+1027,Imbalance
+1028,Normal
+1029,Bearing Fault
+1030,Bearing Fault
+1031,Normal
+1032,Normal
+1033,Normal
+1034,Normal
+1035,Normal
+1036,Bearing Fault
+1037,Normal
+1038,Bearing Fault
+1039,Normal
+1040,Normal
+1041,Normal
+1042,Normal
+1043,Bearing Fault
+1044,Bearing Fault
+1045,Normal
+1046,Bearing Fault
+1047,Normal
+1048,Normal
+1049,Normal
+1050,Normal
+1051,Normal
+1052,Normal
+1053,Normal
+1054,Normal
+1055,Normal
+1056,Bearing Fault
+1057,Normal
+1058,Bearing Fault
+1059,Normal
+1060,Normal
+1061,Bearing Fault
+1062,Normal
+1063,Normal
+1064,Bearing Fault
+1065,Normal
+1066,Normal
+1067,Bearing Fault
+1068,Normal
+1069,Normal
+1070,Normal
+1071,Normal
+1072,Bearing Fault
+1073,Normal
+1074,Normal
+1075,Bearing Fault
+1076,Normal
+1077,Normal
+1078,Bearing Fault
+1079,Normal
+1080,Normal
+1081,Normal
+1082,Normal
+1083,Normal
+1084,Normal
+1085,Bearing Fault
+1086,Normal
+1087,Normal
+1088,Normal
+1089,Normal
+1090,Normal
+1091,Normal
+1092,Bearing Fault
+1093,Bearing Fault
+1094,Normal
+1095,Normal
+1096,Normal
+1097,Normal
+1098,Normal
+1099,Normal
+1100,Normal
+1101,Imbalance
+1102,Normal
+1103,Normal
+1104,Normal
+1105,Normal
+1106,Bearing Fault
+1107,Imbalance
+1108,Normal
+1109,Normal
+1110,Normal
+1111,Bearing Fault
+1112,Normal
+1113,Normal
+1114,Bearing Fault
+1115,Normal
+1116,Normal
+1117,Normal
+1118,Bearing Fault
+1119,Normal
+1120,Normal
+1121,Normal
+1122,Bearing Fault
+1123,Normal
+1124,Bearing Fault
+1125,Bearing Fault
+1126,Normal
+1127,Bearing Fault
+1128,Normal
+1129,Normal
+1130,Normal
+1131,Normal
+1132,Normal
+1133,Normal
+1134,Normal
+1135,Bearing Fault
+1136,Normal
+1137,Normal
+1138,Imbalance
+1139,Normal
+1140,Normal
+1141,Normal
+1142,Normal
+1143,Imbalance
+1144,Normal
+1145,Normal
+1146,Bearing Fault
+1147,Normal
+1148,Normal
+1149,Bearing Fault
+1150,Normal
+1151,Bearing Fault
+1152,Bearing Fault
+1153,Normal
+1154,Normal
+1155,Normal
+1156,Imbalance
+1157,Normal
+1158,Bearing Fault
+1159,Normal
+1160,Bearing Fault
+1161,Normal
+1162,Normal
+1163,Normal
+1164,Normal
+1165,Normal
+1166,Normal
+1167,Normal
+1168,Bearing Fault
+1169,Normal
+1170,Normal
+1171,Normal
+1172,Normal
+1173,Normal
+1174,Normal
+1175,Normal
+1176,Normal
+1177,Normal
+1178,Bearing Fault
+1179,Normal
+1180,Bearing Fault
+1181,Normal
+1182,Normal
+1183,Normal
+1184,Normal
+1185,Normal
+1186,Bearing Fault
+1187,Normal
+1188,Normal
+1189,Normal
+1190,Normal
+1191,Bearing Fault
+1192,Imbalance
+1193,Normal
+1194,Normal
+1195,Normal
+1196,Normal
+1197,Normal
+1198,Bearing Fault
+1199,Normal
+1200,Bearing Fault
+1201,Normal
+1202,Normal
+1203,Normal
+1204,Normal
+1205,Normal
+1206,Normal
+1207,Bearing Fault
+1208,Bearing Fault
+1209,Normal
+1210,Imbalance
+1211,Normal
+1212,Normal
+1213,Bearing Fault
+1214,Normal
+1215,Normal
+1216,Normal
+1217,Normal
+1218,Normal
+1219,Bearing Fault
+1220,Normal
+1221,Bearing Fault
+1222,Normal
+1223,Normal
+1224,Bearing Fault
+1225,Bearing Fault
+1226,Normal
+1227,Normal
+1228,Normal
+1229,Normal
+1230,Bearing Fault
+1231,Normal
+1232,Bearing Fault
+1233,Bearing Fault
+1234,Normal
+1235,Bearing Fault
+1236,Normal
+1237,Imbalance
+1238,Normal
+1239,Normal
+1240,Normal
+1241,Normal
+1242,Bearing Fault
+1243,Normal
+1244,Normal
+1245,Bearing Fault
+1246,Bearing Fault
+1247,Bearing Fault
+1248,Normal
+1249,Normal
+1250,Normal
+1251,Normal
+1252,Normal
+1253,Normal
+1254,Normal
+1255,Bearing Fault
+1256,Bearing Fault
+1257,Bearing Fault
+1258,Normal
+1259,Normal
+1260,Normal
+1261,Normal
+1262,Bearing Fault
+1263,Normal
+1264,Bearing Fault
+1265,Imbalance
+1266,Normal
+1267,Normal
+1268,Normal
+1269,Normal
+1270,Bearing Fault
+1271,Bearing Fault
+1272,Normal
+1273,Normal
+1274,Normal
+1275,Normal
+1276,Normal
+1277,Normal
+1278,Normal
+1279,Normal
+1280,Bearing Fault
+1281,Normal
+1282,Normal
+1283,Bearing Fault
+1284,Normal
+1285,Normal
+1286,Normal
+1287,Normal
+1288,Bearing Fault
+1289,Bearing Fault
+1290,Normal
+1291,Bearing Fault
+1292,Normal
+1293,Bearing Fault
+1294,Bearing Fault
+1295,Normal
+1296,Normal
+1297,Normal
+1298,Imbalance
+1299,Bearing Fault
+1300,Bearing Fault
+1301,Bearing Fault
+1302,Bearing Fault
+1303,Normal
+1304,Normal
+1305,Normal
+1306,Normal
+1307,Normal
+1308,Normal
+1309,Normal
+1310,Normal
+1311,Normal
+1312,Normal
+1313,Normal
+1314,Bearing Fault
+1315,Normal
+1316,Bearing Fault
+1317,Normal
+1318,Bearing Fault
+1319,Bearing Fault
+1320,Bearing Fault
+1321,Normal
+1322,Normal
+1323,Normal
+1324,Normal
+1325,Normal
+1326,Bearing Fault
+1327,Normal
+1328,Normal
+1329,Normal
+1330,Normal
+1331,Normal
+1332,Bearing Fault
+1333,Bearing Fault
+1334,Normal
+1335,Bearing Fault
+1336,Bearing Fault
+1337,Bearing Fault
+1338,Normal
+1339,Normal
+1340,Normal
+1341,Normal
+1342,Bearing Fault
+1343,Normal
+1344,Normal
+1345,Normal
+1346,Normal
+1347,Bearing Fault
+1348,Normal
+1349,Normal
+1350,Normal
+1351,Normal
+1352,Bearing Fault
+1353,Normal
+1354,Normal
+1355,Bearing Fault
+1356,Normal
+1357,Normal
+1358,Bearing Fault
+1359,Normal
+1360,Normal
+1361,Normal
+1362,Bearing Fault
+1363,Normal
+1364,Normal
+1365,Normal
+1366,Normal
+1367,Bearing Fault
+1368,Bearing Fault
+1369,Bearing Fault
+1370,Normal
+1371,Normal
+1372,Bearing Fault
+1373,Normal
+1374,Normal
+1375,Normal
+1376,Normal
+1377,Normal
+1378,Bearing Fault
+1379,Normal
+1380,Normal
+1381,Normal
+1382,Bearing Fault
+1383,Normal
+1384,Normal
+1385,Normal
+1386,Normal
+1387,Normal
+1388,Normal
+1389,Bearing Fault
+1390,Normal
+1391,Bearing Fault
+1392,Normal
+1393,Normal
+1394,Normal
+1395,Normal
+1396,Normal
+1397,Normal
+1398,Normal
+1399,Normal
+1400,Normal
+1401,Normal
+1402,Bearing Fault
+1403,Normal
+1404,Bearing Fault
+1405,Normal
+1406,Normal
+1407,Normal
+1408,Normal
+1409,Normal
+1410,Bearing Fault
+1411,Normal
+1412,Normal
+1413,Normal
+1414,Normal
+1415,Normal
+1416,Bearing Fault
+1417,Normal
+1418,Normal
+1419,Normal
+1420,Normal
+1421,Bearing Fault
+1422,Normal
+1423,Normal
+1424,Normal
+1425,Normal
+1426,Bearing Fault
+1427,Normal
+1428,Normal
+1429,Normal
+1430,Normal
+1431,Normal
+1432,Normal
+1433,Normal
+1434,Imbalance
+1435,Normal
+1436,Bearing Fault
+1437,Normal
+1438,Normal
+1439,Normal
+1440,Normal
+1441,Normal
+1442,Bearing Fault
+1443,Normal
+1444,Normal
+1445,Normal
+1446,Bearing Fault
+1447,Normal
+1448,Normal
+1449,Bearing Fault
+1450,Bearing Fault
+1451,Normal
+1452,Bearing Fault
+1453,Normal
+1454,Normal
+1455,Normal
+1456,Bearing Fault
+1457,Bearing Fault
+1458,Normal
+1459,Normal
+1460,Normal
+1461,Normal
+1462,Normal
+1463,Normal
+1464,Imbalance
+1465,Normal
+1466,Imbalance
+1467,Normal
+1468,Normal
+1469,Normal
+1470,Normal
+1471,Normal
+1472,Bearing Fault
+1473,Bearing Fault
+1474,Normal
+1475,Bearing Fault
+1476,Normal
+1477,Bearing Fault
+1478,Normal
+1479,Bearing Fault
+1480,Bearing Fault
+1481,Normal
+1482,Bearing Fault
+1483,Normal
+1484,Bearing Fault
+1485,Normal
+1486,Normal
+1487,Normal
+1488,Normal
+1489,Normal
+1490,Normal
+1491,Normal
+1492,Bearing Fault
+1493,Bearing Fault
+1494,Normal
+1495,Bearing Fault
+1496,Normal
+1497,Normal
+1498,Normal
+1499,Bearing Fault
+1500,Normal
+1501,Normal
+1502,Bearing Fault
+1503,Normal
+1504,Normal
+1505,Normal
+1506,Normal
+1507,Bearing Fault
+1508,Normal
+1509,Normal
+1510,Normal
+1511,Bearing Fault
+1512,Normal
+1513,Bearing Fault
+1514,Normal
+1515,Bearing Fault
+1516,Normal
+1517,Normal
+1518,Normal
+1519,Bearing Fault
+1520,Bearing Fault
+1521,Normal
+1522,Bearing Fault
+1523,Normal
+1524,Normal
+1525,Bearing Fault
+1526,Normal
+1527,Bearing Fault
+1528,Normal
+1529,Normal
+1530,Bearing Fault
+1531,Normal
+1532,Normal
+1533,Bearing Fault
+1534,Normal
+1535,Normal
+1536,Bearing Fault
+1537,Bearing Fault
+1538,Normal
+1539,Normal
+1540,Normal
+1541,Bearing Fault
+1542,Normal
+1543,Normal
+1544,Normal
+1545,Normal
+1546,Normal
+1547,Normal
+1548,Normal
+1549,Normal
+1550,Normal
+1551,Normal
+1552,Normal
+1553,Normal
+1554,Normal
+1555,Normal
+1556,Bearing Fault
+1557,Bearing Fault
+1558,Normal
+1559,Bearing Fault
+1560,Bearing Fault
+1561,Normal
+1562,Normal
+1563,Normal
+1564,Normal
+1565,Normal
+1566,Bearing Fault
+1567,Bearing Fault
+1568,Normal
+1569,Normal
+1570,Normal
+1571,Bearing Fault
+1572,Bearing Fault
+1573,Normal
+1574,Normal
+1575,Bearing Fault
+1576,Normal
+1577,Normal
+1578,Bearing Fault
+1579,Normal
+1580,Normal
+1581,Bearing Fault
+1582,Normal
+1583,Normal
+1584,Normal
+1585,Normal
+1586,Normal
+1587,Normal
+1588,Normal
+1589,Normal
+1590,Bearing Fault
+1591,Bearing Fault
+1592,Normal
+1593,Normal
+1594,Normal
+1595,Normal
+1596,Normal
+1597,Normal
+1598,Normal
+1599,Normal
+1600,Normal
+1601,Normal
+1602,Normal
+1603,Normal
+1604,Normal
+1605,Normal
+1606,Bearing Fault
+1607,Bearing Fault
+1608,Bearing Fault
+1609,Bearing Fault
+1610,Bearing Fault
+1611,Normal
+1612,Normal
+1613,Normal
+1614,Bearing Fault
+1615,Normal
+1616,Normal
+1617,Normal
+1618,Normal
+1619,Normal
+1620,Normal
+1621,Normal
+1622,Bearing Fault
+1623,Normal
+1624,Normal
+1625,Imbalance
+1626,Normal
+1627,Normal
+1628,Normal
+1629,Normal
+1630,Normal
+1631,Normal
+1632,Normal
+1633,Normal
+1634,Normal
+1635,Normal
+1636,Normal
+1637,Normal
+1638,Normal
+1639,Bearing Fault
+1640,Normal
+1641,Normal
+1642,Bearing Fault
+1643,Normal
+1644,Normal
+1645,Normal
+1646,Bearing Fault
+1647,Normal
+1648,Normal
+1649,Bearing Fault
+1650,Bearing Fault
+1651,Normal
+1652,Normal
+1653,Bearing Fault
+1654,Normal
+1655,Bearing Fault
+1656,Normal
+1657,Normal
+1658,Normal
+1659,Normal
+1660,Normal
+1661,Bearing Fault
+1662,Normal
+1663,Normal
+1664,Normal
+1665,Normal
+1666,Normal
+1667,Normal
+1668,Normal
+1669,Normal
+1670,Bearing Fault
+1671,Bearing Fault
+1672,Normal
+1673,Normal
+1674,Bearing Fault
+1675,Normal
+1676,Bearing Fault
+1677,Normal
+1678,Bearing Fault
+1679,Normal
+1680,Bearing Fault
+1681,Bearing Fault
+1682,Normal
+1683,Normal
+1684,Normal
+1685,Normal
+1686,Normal
+1687,Bearing Fault
+1688,Normal
+1689,Bearing Fault
+1690,Normal
+1691,Normal
+1692,Bearing Fault
+1693,Normal
+1694,Bearing Fault
+1695,Normal
+1696,Normal
+1697,Normal
+1698,Normal
+1699,Normal
+1700,Normal
+1701,Normal
+1702,Normal
+1703,Normal
+1704,Bearing Fault
+1705,Normal
+1706,Bearing Fault
+1707,Normal
+1708,Normal
+1709,Normal
+1710,Normal
+1711,Normal
+1712,Normal
+1713,Normal
+1714,Normal
+1715,Normal
+1716,Normal
+1717,Normal
+1718,Normal
+1719,Normal
+1720,Normal
+1721,Normal
+1722,Bearing Fault
+1723,Normal
+1724,Bearing Fault
+1725,Bearing Fault
+1726,Normal
+1727,Normal
+1728,Bearing Fault
+1729,Normal
+1730,Normal
+1731,Normal
+1732,Bearing Fault
+1733,Normal
+1734,Normal
+1735,Normal
+1736,Bearing Fault
+1737,Normal
+1738,Bearing Fault
+1739,Bearing Fault
+1740,Normal
+1741,Normal
+1742,Normal
+1743,Normal
+1744,Normal
+1745,Normal
+1746,Normal
+1747,Normal
+1748,Normal
+1749,Normal
+1750,Normal
+1751,Normal
+1752,Normal
+1753,Normal
+1754,Normal
+1755,Normal
+1756,Normal
+1757,Bearing Fault
+1758,Normal
+1759,Normal
+1760,Bearing Fault
+1761,Normal
+1762,Bearing Fault
+1763,Bearing Fault
+1764,Normal
+1765,Normal
+1766,Normal
+1767,Normal
+1768,Bearing Fault
+1769,Normal
+1770,Bearing Fault
+1771,Bearing Fault
+1772,Normal
+1773,Normal
+1774,Normal
+1775,Bearing Fault
+1776,Normal
+1777,Normal
+1778,Normal
+1779,Normal
+1780,Normal
+1781,Normal
+1782,Normal
+1783,Normal
+1784,Normal
+1785,Normal
+1786,Normal
+1787,Imbalance
+1788,Bearing Fault
+1789,Normal
+1790,Normal
+1791,Normal
+1792,Normal
+1793,Normal
+1794,Normal
+1795,Normal
+1796,Normal
+1797,Normal
+1798,Normal
+1799,Normal
+1800,Normal
+1801,Normal
+1802,Normal
+1803,Bearing Fault
+1804,Bearing Fault
+1805,Normal
+1806,Bearing Fault
+1807,Bearing Fault
+1808,Normal
+1809,Bearing Fault
+1810,Normal
+1811,Imbalance
+1812,Normal
+1813,Normal
+1814,Normal
+1815,Normal
+1816,Bearing Fault
+1817,Normal
+1818,Normal
+1819,Imbalance
+1820,Normal
+1821,Bearing Fault
+1822,Normal
+1823,Normal
+1824,Bearing Fault
+1825,Normal
+1826,Normal
+1827,Normal
+1828,Normal
+1829,Normal
+1830,Normal
+1831,Bearing Fault
+1832,Bearing Fault
+1833,Normal
+1834,Normal
+1835,Normal
+1836,Normal
+1837,Normal
+1838,Bearing Fault
+1839,Normal
+1840,Normal
+1841,Normal
+1842,Normal
+1843,Normal
+1844,Bearing Fault
+1845,Normal
+1846,Bearing Fault
+1847,Normal
+1848,Normal
+1849,Bearing Fault
+1850,Normal
+1851,Imbalance
+1852,Imbalance
+1853,Normal
+1854,Normal
+1855,Bearing Fault
+1856,Normal
+1857,Normal
+1858,Normal
+1859,Normal
+1860,Normal
+1861,Normal
+1862,Normal
+1863,Normal
+1864,Bearing Fault
+1865,Bearing Fault
+1866,Normal
+1867,Normal
+1868,Normal
+1869,Normal
+1870,Normal
+1871,Bearing Fault
+1872,Normal
+1873,Imbalance
+1874,Normal
+1875,Bearing Fault
+1876,Normal
+1877,Normal
+1878,Bearing Fault
+1879,Bearing Fault
+1880,Bearing Fault
+1881,Bearing Fault
+1882,Normal
+1883,Normal
+1884,Normal
+1885,Normal
+1886,Bearing Fault
+1887,Normal
+1888,Bearing Fault
+1889,Normal
+1890,Normal
+1891,Normal
+1892,Normal
+1893,Bearing Fault
+1894,Normal
+1895,Normal
+1896,Normal
+1897,Normal
+1898,Bearing Fault
+1899,Normal
+1900,Bearing Fault
+1901,Normal
+1902,Normal
+1903,Normal
+1904,Normal
+1905,Normal
+1906,Bearing Fault
+1907,Normal
+1908,Normal
+1909,Normal
+1910,Bearing Fault
+1911,Bearing Fault
+1912,Imbalance
+1913,Normal
+1914,Normal
+1915,Normal
+1916,Normal
+1917,Bearing Fault
+1918,Bearing Fault
+1919,Normal
+1920,Normal
+1921,Normal
+1922,Normal
+1923,Imbalance
+1924,Normal
+1925,Bearing Fault
+1926,Normal
+1927,Normal
+1928,Normal
+1929,Normal
+1930,Normal
+1931,Normal
+1932,Normal
+1933,Bearing Fault
+1934,Normal
+1935,Normal
+1936,Normal
+1937,Bearing Fault
+1938,Normal
+1939,Normal
+1940,Normal
+1941,Normal
+1942,Normal
+1943,Normal
+1944,Normal
+1945,Normal
+1946,Normal
+1947,Normal
+1948,Bearing Fault
+1949,Normal
+1950,Bearing Fault
+1951,Bearing Fault
+1952,Normal
+1953,Normal
+1954,Bearing Fault
+1955,Normal
+1956,Normal
+1957,Normal
+1958,Bearing Fault
+1959,Normal
+1960,Bearing Fault
+1961,Bearing Fault
+1962,Bearing Fault
+1963,Normal
+1964,Bearing Fault
+1965,Bearing Fault
+1966,Normal
+1967,Bearing Fault
+1968,Normal
+1969,Normal
+1970,Normal
+1971,Bearing Fault
+1972,Bearing Fault
+1973,Normal
+1974,Normal
+1975,Normal
+1976,Normal
+1977,Normal
+1978,Normal
+1979,Bearing Fault
+1980,Normal
+1981,Bearing Fault
+1982,Bearing Fault
+1983,Normal
+1984,Normal
+1985,Normal
+1986,Normal
+1987,Bearing Fault
+1988,Normal
+1989,Normal
+1990,Normal
+1991,Bearing Fault
+1992,Normal
+1993,Normal
+1994,Normal
+1995,Normal
+1996,Normal
+1997,Bearing Fault
+1998,Normal
+1999,Normal
+2000,Normal
+2001,Normal
+2002,Normal
+2003,Normal
+2004,Bearing Fault
+2005,Normal
+2006,Bearing Fault
+2007,Normal
+2008,Normal
+2009,Normal
+2010,Normal
+2011,Normal
+2012,Normal
+2013,Normal
+2014,Normal
+2015,Bearing Fault
+2016,Normal
+2017,Normal
+2018,Normal
+2019,Normal
+2020,Normal
+2021,Normal
+2022,Normal
+2023,Normal
+2024,Normal
+2025,Bearing Fault
+2026,Bearing Fault
+2027,Normal
+2028,Normal
+2029,Normal
+2030,Normal
+2031,Normal
+2032,Normal
+2033,Normal
+2034,Normal
+2035,Normal
+2036,Bearing Fault
+2037,Bearing Fault
+2038,Normal
+2039,Normal
+2040,Bearing Fault
+2041,Bearing Fault
+2042,Normal
+2043,Bearing Fault
+2044,Normal
+2045,Normal
+2046,Normal
+2047,Bearing Fault
+2048,Bearing Fault
+2049,Bearing Fault
+2050,Bearing Fault
+2051,Normal
+2052,Normal
+2053,Normal
+2054,Bearing Fault
+2055,Bearing Fault
+2056,Bearing Fault
+2057,Normal
+2058,Normal
+2059,Normal
+2060,Normal
+2061,Normal
+2062,Normal
+2063,Bearing Fault
+2064,Normal
+2065,Normal
+2066,Normal
+2067,Normal
+2068,Normal
+2069,Normal
+2070,Normal
+2071,Normal
+2072,Normal
+2073,Normal
+2074,Normal
+2075,Normal
+2076,Bearing Fault
+2077,Normal
+2078,Bearing Fault
+2079,Normal
+2080,Normal
+2081,Bearing Fault
+2082,Normal
+2083,Normal
+2084,Normal
+2085,Normal
+2086,Normal
+2087,Normal
+2088,Normal
+2089,Normal
+2090,Normal
+2091,Normal
+2092,Normal
+2093,Normal
+2094,Normal
+2095,Bearing Fault
+2096,Normal
+2097,Normal
+2098,Normal
+2099,Normal
+2100,Normal
+2101,Bearing Fault
+2102,Normal
+2103,Bearing Fault
+2104,Normal
+2105,Normal
+2106,Normal
+2107,Normal
+2108,Normal
+2109,Normal
+2110,Bearing Fault
+2111,Bearing Fault
+2112,Bearing Fault
+2113,Normal
+2114,Normal
+2115,Normal
+2116,Normal
+2117,Normal
+2118,Normal
+2119,Bearing Fault
+2120,Normal
+2121,Imbalance
+2122,Bearing Fault
+2123,Normal
+2124,Normal
+2125,Normal
+2126,Normal
+2127,Bearing Fault
+2128,Imbalance
+2129,Normal
+2130,Normal
+2131,Normal
+2132,Normal
+2133,Bearing Fault
+2134,Bearing Fault
+2135,Normal
+2136,Normal
+2137,Normal
+2138,Normal
+2139,Normal
+2140,Normal
+2141,Bearing Fault
+2142,Normal
+2143,Normal
+2144,Imbalance
+2145,Normal
+2146,Normal
+2147,Normal
+2148,Bearing Fault
+2149,Normal
+2150,Normal
+2151,Normal
+2152,Bearing Fault
+2153,Normal
+2154,Imbalance
+2155,Normal
+2156,Normal
+2157,Normal
+2158,Normal
+2159,Normal
+2160,Bearing Fault
+2161,Bearing Fault
+2162,Bearing Fault
+2163,Bearing Fault
+2164,Normal
+2165,Normal
+2166,Normal
+2167,Normal
+2168,Bearing Fault
+2169,Normal
+2170,Normal
+2171,Normal
+2172,Normal
+2173,Normal
+2174,Normal
+2175,Normal
+2176,Normal
+2177,Normal
+2178,Imbalance
+2179,Imbalance
+2180,Normal
+2181,Normal
+2182,Normal
+2183,Bearing Fault
+2184,Normal
+2185,Normal
+2186,Normal
+2187,Bearing Fault
+2188,Bearing Fault
+2189,Bearing Fault
+2190,Normal
+2191,Normal
+2192,Normal
+2193,Bearing Fault
+2194,Normal
+2195,Bearing Fault
+2196,Bearing Fault
+2197,Bearing Fault
+2198,Normal
+2199,Bearing Fault
+2200,Bearing Fault
+2201,Bearing Fault
+2202,Normal
+2203,Normal
+2204,Normal
+2205,Normal
+2206,Bearing Fault
+2207,Normal
+2208,Normal
+2209,Normal
+2210,Normal
+2211,Normal
+2212,Normal
+2213,Normal
+2214,Normal
+2215,Bearing Fault
+2216,Imbalance
+2217,Normal
+2218,Normal
+2219,Normal
+2220,Normal
+2221,Normal
+2222,Bearing Fault
+2223,Imbalance
+2224,Normal
+2225,Normal
+2226,Normal
+2227,Bearing Fault
+2228,Normal
+2229,Normal
+2230,Normal
+2231,Normal
+2232,Normal
+2233,Normal
+2234,Bearing Fault
+2235,Normal
+2236,Normal
+2237,Normal
+2238,Normal
+2239,Normal
+2240,Bearing Fault
+2241,Bearing Fault
+2242,Normal
+2243,Bearing Fault
+2244,Normal
+2245,Normal
+2246,Normal
+2247,Normal
+2248,Normal
+2249,Normal
+2250,Normal
+2251,Normal
+2252,Bearing Fault
+2253,Normal
+2254,Bearing Fault
+2255,Normal
+2256,Normal
+2257,Normal
+2258,Normal
+2259,Normal
+2260,Bearing Fault
+2261,Normal
+2262,Normal
+2263,Normal
+2264,Normal
+2265,Normal
+2266,Imbalance
+2267,Normal
+2268,Imbalance
+2269,Bearing Fault
+2270,Normal
+2271,Bearing Fault
+2272,Normal
+2273,Normal
+2274,Normal
+2275,Normal
+2276,Normal
+2277,Normal
+2278,Bearing Fault
+2279,Normal
+2280,Normal
+2281,Normal
+2282,Normal
+2283,Normal
+2284,Bearing Fault
+2285,Normal
+2286,Bearing Fault
+2287,Imbalance
+2288,Normal
+2289,Normal
+2290,Normal
+2291,Bearing Fault
+2292,Normal
+2293,Normal
+2294,Normal
+2295,Normal
+2296,Normal
+2297,Normal
+2298,Normal
+2299,Normal
+2300,Bearing Fault
+2301,Bearing Fault
+2302,Normal
+2303,Normal
+2304,Normal
+2305,Normal
+2306,Normal
+2307,Normal
+2308,Bearing Fault
+2309,Normal
+2310,Normal
+2311,Bearing Fault
+2312,Normal
+2313,Bearing Fault
+2314,Bearing Fault
+2315,Bearing Fault
+2316,Bearing Fault
+2317,Normal
+2318,Bearing Fault
+2319,Normal
+2320,Normal
+2321,Normal
+2322,Bearing Fault
+2323,Normal
+2324,Normal
+2325,Normal
+2326,Normal
+2327,Bearing Fault
+2328,Normal
+2329,Bearing Fault
+2330,Normal
+2331,Normal
+2332,Normal
+2333,Bearing Fault
+2334,Imbalance
+2335,Normal
+2336,Bearing Fault
+2337,Normal
+2338,Normal
+2339,Normal
+2340,Normal
+2341,Normal
+2342,Normal
+2343,Bearing Fault
+2344,Normal
+2345,Normal
+2346,Normal
+2347,Bearing Fault
+2348,Bearing Fault
+2349,Normal
+2350,Bearing Fault
+2351,Normal
+2352,Normal
+2353,Normal
+2354,Bearing Fault
+2355,Normal
+2356,Normal
+2357,Normal
+2358,Bearing Fault
+2359,Bearing Fault
+2360,Bearing Fault
+2361,Normal
+2362,Normal
+2363,Normal
+2364,Bearing Fault
+2365,Bearing Fault
+2366,Normal
+2367,Normal
+2368,Normal
+2369,Bearing Fault
+2370,Normal
+2371,Normal
+2372,Bearing Fault
+2373,Normal
+2374,Normal
+2375,Imbalance
+2376,Normal
+2377,Normal
+2378,Normal
+2379,Normal
+2380,Bearing Fault
+2381,Bearing Fault
+2382,Normal
+2383,Bearing Fault
+2384,Normal
+2385,Normal
+2386,Normal
+2387,Normal
+2388,Normal
+2389,Normal
+2390,Normal
+2391,Bearing Fault
+2392,Normal
+2393,Normal
+2394,Normal
+2395,Normal
+2396,Normal
+2397,Bearing Fault
+2398,Normal
+2399,Normal
+2400,Normal
+2401,Normal
+2402,Normal
+2403,Normal
+2404,Bearing Fault
+2405,Normal
+2406,Normal
+2407,Normal
+2408,Normal
+2409,Imbalance
+2410,Normal
+2411,Bearing Fault
+2412,Normal
+2413,Normal
+2414,Normal
+2415,Normal
+2416,Normal
+2417,Bearing Fault
+2418,Bearing Fault
+2419,Normal
+2420,Normal
+2421,Imbalance
+2422,Normal
+2423,Normal
+2424,Normal
+2425,Normal
+2426,Bearing Fault
+2427,Normal
+2428,Bearing Fault
+2429,Normal
+2430,Normal
+2431,Normal
+2432,Normal
+2433,Bearing Fault
+2434,Normal
+2435,Bearing Fault
+2436,Normal
+2437,Normal
+2438,Bearing Fault
+2439,Normal
+2440,Normal
+2441,Bearing Fault
+2442,Normal
+2443,Normal
+2444,Normal
+2445,Normal
+2446,Normal
+2447,Normal
+2448,Normal
+2449,Normal
+2450,Normal
+2451,Imbalance
+2452,Bearing Fault
+2453,Normal
+2454,Normal
+2455,Normal
+2456,Normal
+2457,Normal
+2458,Normal
+2459,Normal
+2460,Normal
+2461,Normal
+2462,Normal
+2463,Normal
+2464,Normal
+2465,Normal
+2466,Bearing Fault
+2467,Normal
+2468,Bearing Fault
+2469,Normal
+2470,Bearing Fault
+2471,Bearing Fault
+2472,Bearing Fault
+2473,Normal
+2474,Normal
+2475,Normal
+2476,Normal
+2477,Normal
+2478,Normal
+2479,Bearing Fault
+2480,Normal
+2481,Normal
+2482,Normal
+2483,Bearing Fault
+2484,Normal
+2485,Normal
+2486,Bearing Fault
+2487,Normal
+2488,Normal
+2489,Normal
+2490,Normal
+2491,Normal
+2492,Normal
+2493,Bearing Fault
+2494,Bearing Fault
+2495,Normal
+2496,Bearing Fault
+2497,Normal
+2498,Normal
+2499,Normal
+2500,Normal
+2501,Normal
+2502,Normal
+2503,Normal
+2504,Normal
+2505,Normal
+2506,Normal
+2507,Bearing Fault
+2508,Normal
+2509,Bearing Fault
+2510,Normal
+2511,Normal
+2512,Normal
+2513,Bearing Fault
+2514,Bearing Fault
+2515,Normal
+2516,Normal
+2517,Normal
+2518,Normal
+2519,Normal
+2520,Normal
+2521,Normal
+2522,Bearing Fault
+2523,Bearing Fault
+2524,Normal
+2525,Normal
+2526,Normal
+2527,Normal
+2528,Normal
+2529,Normal
+2530,Normal
+2531,Normal
+2532,Bearing Fault
+2533,Normal
+2534,Normal
+2535,Normal
+2536,Normal
+2537,Bearing Fault
+2538,Normal
+2539,Normal
+2540,Normal
+2541,Normal
+2542,Normal
+2543,Normal
+2544,Bearing Fault
+2545,Normal
+2546,Normal
+2547,Normal
+2548,Normal
+2549,Normal
+2550,Bearing Fault
+2551,Normal
+2552,Normal
+2553,Normal
+2554,Normal
+2555,Normal
+2556,Normal
+2557,Normal
+2558,Normal
+2559,Normal
+2560,Normal
+2561,Normal
+2562,Normal
+2563,Normal
+2564,Bearing Fault
+2565,Normal
+2566,Bearing Fault
+2567,Normal
+2568,Normal
+2569,Bearing Fault
+2570,Normal
+2571,Normal
+2572,Normal
+2573,Normal
+2574,Normal
+2575,Normal
+2576,Imbalance
+2577,Normal
+2578,Bearing Fault
+2579,Bearing Fault
+2580,Normal
+2581,Normal
+2582,Imbalance
+2583,Normal
+2584,Normal
+2585,Normal
+2586,Normal
+2587,Normal
+2588,Normal
+2589,Normal
+2590,Normal
+2591,Normal
+2592,Normal
+2593,Bearing Fault
+2594,Normal
+2595,Normal
+2596,Bearing Fault
+2597,Normal
+2598,Bearing Fault
+2599,Bearing Fault
+2600,Normal
+2601,Normal
+2602,Bearing Fault
+2603,Normal
+2604,Bearing Fault
+2605,Normal
+2606,Normal
+2607,Normal
+2608,Normal
+2609,Normal
+2610,Normal
+2611,Normal
+2612,Bearing Fault
+2613,Normal
+2614,Normal
+2615,Normal
+2616,Imbalance
+2617,Normal
+2618,Normal
+2619,Normal
+2620,Normal
+2621,Normal
+2622,Normal
+2623,Normal
+2624,Normal
+2625,Normal
+2626,Bearing Fault
+2627,Normal
+2628,Normal
+2629,Normal
+2630,Bearing Fault
+2631,Normal
+2632,Normal
+2633,Normal
+2634,Normal
+2635,Normal
+2636,Normal
+2637,Normal
+2638,Normal
+2639,Normal
+2640,Normal
+2641,Bearing Fault
+2642,Bearing Fault
+2643,Normal
+2644,Normal
+2645,Normal
+2646,Normal
+2647,Bearing Fault
+2648,Bearing Fault
+2649,Normal
+2650,Normal
+2651,Normal
+2652,Normal
+2653,Normal
+2654,Normal
+2655,Normal
+2656,Normal
+2657,Normal
+2658,Normal
+2659,Bearing Fault
+2660,Bearing Fault
+2661,Normal
+2662,Normal
+2663,Normal
+2664,Normal
+2665,Normal
+2666,Normal
+2667,Normal
+2668,Normal
+2669,Imbalance
+2670,Normal
+2671,Normal
+2672,Bearing Fault
+2673,Normal
+2674,Normal
+2675,Normal
+2676,Normal
+2677,Bearing Fault
+2678,Normal
+2679,Bearing Fault
+2680,Normal
+2681,Normal
+2682,Bearing Fault
+2683,Normal
+2684,Normal
+2685,Normal
+2686,Bearing Fault
+2687,Normal
+2688,Normal
+2689,Normal
+2690,Normal
+2691,Bearing Fault
+2692,Normal
+2693,Normal
+2694,Normal
+2695,Normal
+2696,Normal
+2697,Normal
+2698,Normal
+2699,Normal
+2700,Normal
+2701,Normal
+2702,Normal
+2703,Bearing Fault
+2704,Normal
+2705,Bearing Fault
+2706,Normal
+2707,Normal
+2708,Normal
+2709,Normal
+2710,Bearing Fault
+2711,Normal
+2712,Normal
+2713,Bearing Fault
+2714,Normal
+2715,Normal
+2716,Bearing Fault
+2717,Normal
+2718,Normal
+2719,Normal
+2720,Normal
+2721,Normal
+2722,Normal
+2723,Normal
+2724,Normal
+2725,Normal
+2726,Normal
+2727,Normal
+2728,Bearing Fault
+2729,Bearing Fault
+2730,Bearing Fault
+2731,Normal
+2732,Normal
+2733,Normal
+2734,Bearing Fault
+2735,Normal
+2736,Normal
+2737,Normal
+2738,Normal
+2739,Bearing Fault
+2740,Normal
+2741,Normal
+2742,Normal
+2743,Normal
+2744,Normal
+2745,Normal
+2746,Normal
+2747,Imbalance
+2748,Normal
+2749,Bearing Fault
+2750,Normal
+2751,Normal
+2752,Normal
+2753,Normal
+2754,Normal
+2755,Bearing Fault
+2756,Normal
+2757,Bearing Fault
+2758,Bearing Fault
+2759,Normal
+2760,Normal
+2761,Bearing Fault
+2762,Normal
+2763,Normal
+2764,Normal
+2765,Normal
+2766,Normal
+2767,Normal
+2768,Normal
+2769,Normal
+2770,Bearing Fault
+2771,Normal
+2772,Normal
+2773,Normal
+2774,Normal
+2775,Bearing Fault
+2776,Normal
+2777,Normal
+2778,Normal
+2779,Normal
+2780,Bearing Fault
+2781,Normal
+2782,Normal
+2783,Normal
+2784,Normal
+2785,Normal
+2786,Normal
+2787,Imbalance
+2788,Normal
+2789,Normal
+2790,Bearing Fault
+2791,Normal
+2792,Normal
+2793,Normal
+2794,Normal
+2795,Normal
+2796,Bearing Fault
+2797,Normal
+2798,Bearing Fault
+2799,Bearing Fault
+2800,Normal
+2801,Bearing Fault
+2802,Normal
+2803,Bearing Fault
+2804,Bearing Fault
+2805,Normal
+2806,Normal
+2807,Bearing Fault
+2808,Normal
+2809,Bearing Fault
+2810,Bearing Fault
+2811,Normal
+2812,Normal
+2813,Normal
+2814,Normal
+2815,Bearing Fault
+2816,Normal
+2817,Normal
+2818,Normal
+2819,Normal
+2820,Normal
+2821,Normal
+2822,Normal
+2823,Normal
+2824,Normal
+2825,Normal
+2826,Normal
+2827,Normal
+2828,Normal
+2829,Bearing Fault
+2830,Normal
+2831,Normal
+2832,Normal
+2833,Bearing Fault
+2834,Normal
+2835,Normal
+2836,Bearing Fault
+2837,Normal
+2838,Normal
+2839,Normal
+2840,Normal
+2841,Bearing Fault
+2842,Normal
+2843,Normal
+2844,Normal
+2845,Normal
+2846,Normal
+2847,Bearing Fault
+2848,Normal
+2849,Normal
+2850,Bearing Fault
+2851,Normal
+2852,Bearing Fault
+2853,Bearing Fault
+2854,Normal
+2855,Normal
+2856,Normal
+2857,Normal
+2858,Normal
+2859,Normal
+2860,Imbalance
+2861,Normal
+2862,Normal
+2863,Normal
+2864,Bearing Fault
+2865,Normal
+2866,Bearing Fault
+2867,Bearing Fault
+2868,Normal
+2869,Normal
+2870,Normal
+2871,Normal
+2872,Bearing Fault
+2873,Normal
+2874,Normal
+2875,Normal
+2876,Bearing Fault
+2877,Normal
+2878,Bearing Fault
+2879,Normal
+2880,Normal
+2881,Normal
+2882,Normal
+2883,Bearing Fault
+2884,Normal
+2885,Normal
+2886,Normal
+2887,Normal
+2888,Normal
+2889,Normal
+2890,Normal
+2891,Bearing Fault
+2892,Normal
+2893,Normal
+2894,Normal
+2895,Normal
+2896,Normal
+2897,Normal
+2898,Bearing Fault
+2899,Normal
+2900,Bearing Fault
+2901,Normal
+2902,Normal
+2903,Normal
+2904,Bearing Fault
+2905,Normal
+2906,Bearing Fault
+2907,Normal
+2908,Bearing Fault
+2909,Normal
+2910,Normal
+2911,Normal
+2912,Normal
+2913,Bearing Fault
+2914,Normal
+2915,Normal
+2916,Normal
+2917,Normal
+2918,Normal
+2919,Normal
+2920,Normal
+2921,Normal
+2922,Normal
+2923,Normal
+2924,Bearing Fault
+2925,Normal
+2926,Bearing Fault
+2927,Normal
+2928,Normal
+2929,Bearing Fault
+2930,Normal
+2931,Normal
+2932,Normal
+2933,Normal
+2934,Normal
+2935,Bearing Fault
+2936,Imbalance
+2937,Normal
+2938,Normal
+2939,Bearing Fault
+2940,Bearing Fault
+2941,Normal
+2942,Normal
+2943,Normal
+2944,Normal
+2945,Bearing Fault
+2946,Normal
+2947,Normal
+2948,Normal
+2949,Normal
+2950,Bearing Fault
+2951,Normal
+2952,Normal
+2953,Bearing Fault
+2954,Normal
+2955,Bearing Fault
+2956,Bearing Fault
+2957,Normal
+2958,Bearing Fault
+2959,Normal
+2960,Bearing Fault
+2961,Normal
+2962,Bearing Fault
+2963,Normal
+2964,Bearing Fault
+2965,Normal
+2966,Bearing Fault
+2967,Normal
+2968,Normal
+2969,Normal
+2970,Normal
+2971,Normal
+2972,Normal
+2973,Normal
+2974,Normal
+2975,Bearing Fault
+2976,Bearing Fault
+2977,Normal
+2978,Normal
+2979,Normal
+2980,Normal
+2981,Normal
+2982,Normal
+2983,Bearing Fault
+2984,Normal
+2985,Normal
+2986,Normal
+2987,Bearing Fault
+2988,Normal
+2989,Bearing Fault
+2990,Normal
+2991,Normal
+2992,Normal
+2993,Normal
+2994,Normal
+2995,Bearing Fault
+2996,Bearing Fault
+2997,Normal
+2998,Bearing Fault
+2999,Bearing Fault
+3000,Bearing Fault
+3001,Bearing Fault
+3002,Normal
+3003,Bearing Fault
+3004,Normal
+3005,Bearing Fault
+3006,Normal
+3007,Normal
+3008,Normal
+3009,Normal
+3010,Normal
+3011,Normal
+3012,Normal
+3013,Normal
+3014,Normal
+3015,Normal
+3016,Normal
+3017,Normal
+3018,Normal
+3019,Normal
+3020,Normal
+3021,Normal
+3022,Normal
+3023,Normal
+3024,Normal
+3025,Bearing Fault
+3026,Normal
+3027,Normal
+3028,Normal
+3029,Normal
+3030,Normal
+3031,Normal
+3032,Normal
+3033,Normal
+3034,Bearing Fault
+3035,Normal
+3036,Normal
+3037,Normal
+3038,Normal
+3039,Normal
+3040,Normal
+3041,Normal
+3042,Bearing Fault
+3043,Bearing Fault
+3044,Bearing Fault
+3045,Normal
+3046,Normal
+3047,Normal
+3048,Normal
+3049,Normal
+3050,Normal
+3051,Normal
+3052,Normal
+3053,Normal
+3054,Bearing Fault
+3055,Normal
+3056,Bearing Fault
+3057,Normal
+3058,Normal
+3059,Normal
+3060,Bearing Fault
+3061,Normal
+3062,Normal
+3063,Bearing Fault
+3064,Normal
+3065,Normal
+3066,Normal
+3067,Bearing Fault
+3068,Normal
+3069,Bearing Fault
+3070,Normal
+3071,Normal
+3072,Normal
+3073,Normal
+3074,Normal
+3075,Imbalance
+3076,Normal
+3077,Bearing Fault
+3078,Normal
+3079,Normal
+3080,Normal
+3081,Bearing Fault
+3082,Normal
+3083,Bearing Fault
+3084,Normal
+3085,Normal
+3086,Normal
+3087,Normal
+3088,Normal
+3089,Bearing Fault
+3090,Normal
+3091,Bearing Fault
+3092,Normal
+3093,Bearing Fault
+3094,Normal
+3095,Normal
+3096,Normal
+3097,Normal
+3098,Imbalance
+3099,Normal
+3100,Bearing Fault
+3101,Normal
+3102,Normal
+3103,Normal
+3104,Normal
+3105,Normal
+3106,Normal
+3107,Normal
+3108,Normal
+3109,Bearing Fault
+3110,Normal
+3111,Normal
+3112,Normal
+3113,Normal
+3114,Normal
+3115,Normal
+3116,Bearing Fault
+3117,Normal
+3118,Normal
+3119,Normal
+3120,Normal
+3121,Normal
+3122,Normal
+3123,Bearing Fault
+3124,Normal
+3125,Normal
+3126,Normal
+3127,Bearing Fault
+3128,Normal
+3129,Normal
+3130,Normal
+3131,Normal
+3132,Normal
+3133,Normal
+3134,Normal
+3135,Normal
+3136,Normal
+3137,Bearing Fault
+3138,Normal
+3139,Normal
+3140,Normal
+3141,Imbalance
+3142,Normal
+3143,Normal
+3144,Normal
+3145,Normal
+3146,Normal
+3147,Normal
+3148,Normal
+3149,Bearing Fault
+3150,Normal
+3151,Normal
+3152,Bearing Fault
+3153,Normal
+3154,Normal
+3155,Normal
+3156,Bearing Fault
+3157,Normal
+3158,Normal
+3159,Normal
+3160,Normal
+3161,Normal
+3162,Normal
+3163,Normal
+3164,Normal
+3165,Bearing Fault
+3166,Normal
+3167,Bearing Fault
+3168,Bearing Fault
+3169,Normal
+3170,Normal
+3171,Bearing Fault
+3172,Normal
+3173,Bearing Fault
+3174,Normal
+3175,Normal
+3176,Bearing Fault
+3177,Normal
+3178,Normal
+3179,Normal
+3180,Normal
+3181,Normal
+3182,Normal
+3183,Normal
+3184,Normal
+3185,Normal
+3186,Imbalance
+3187,Normal
+3188,Bearing Fault
+3189,Normal
+3190,Normal
+3191,Normal
+3192,Normal
+3193,Normal
+3194,Normal
+3195,Normal
+3196,Normal
+3197,Normal
+3198,Normal
+3199,Normal
+3200,Bearing Fault
+3201,Bearing Fault
+3202,Normal
+3203,Bearing Fault
+3204,Normal
+3205,Normal
+3206,Normal
+3207,Normal
+3208,Normal
+3209,Bearing Fault
+3210,Normal
+3211,Normal
+3212,Normal
+3213,Normal
+3214,Normal
+3215,Normal
+3216,Normal
+3217,Normal
+3218,Normal
+3219,Bearing Fault
+3220,Normal
+3221,Normal
+3222,Normal
+3223,Bearing Fault
+3224,Bearing Fault
+3225,Normal
+3226,Bearing Fault
+3227,Normal
+3228,Normal
+3229,Normal
+3230,Normal
+3231,Normal
+3232,Normal
+3233,Normal
+3234,Bearing Fault
+3235,Normal
+3236,Normal
+3237,Normal
+3238,Normal
+3239,Normal
+3240,Normal
+3241,Normal
+3242,Normal
+3243,Bearing Fault
+3244,Bearing Fault
+3245,Normal
+3246,Normal
+3247,Normal
+3248,Bearing Fault
+3249,Bearing Fault
+3250,Normal
+3251,Normal
+3252,Normal
+3253,Normal
+3254,Normal
+3255,Normal
+3256,Normal
+3257,Normal
+3258,Normal
+3259,Bearing Fault
+3260,Normal
+3261,Bearing Fault
+3262,Normal
+3263,Normal
+3264,Normal
+3265,Normal
+3266,Normal
+3267,Bearing Fault
+3268,Bearing Fault
+3269,Normal
+3270,Normal
+3271,Normal
+3272,Normal
+3273,Normal
+3274,Normal
+3275,Normal
+3276,Bearing Fault
+3277,Normal
+3278,Bearing Fault
+3279,Normal
+3280,Normal
+3281,Normal
+3282,Imbalance
+3283,Normal
+3284,Normal
+3285,Normal
+3286,Normal
+3287,Normal
+3288,Normal
+3289,Imbalance
+3290,Bearing Fault
+3291,Normal
+3292,Normal
+3293,Normal
+3294,Normal
+3295,Normal
+3296,Normal
+3297,Normal
+3298,Normal
+3299,Normal
+3300,Normal
+3301,Normal
+3302,Normal
+3303,Normal
+3304,Bearing Fault
+3305,Bearing Fault
+3306,Normal
+3307,Normal
+3308,Bearing Fault
+3309,Normal
+3310,Normal
+3311,Bearing Fault
+3312,Normal
+3313,Normal
+3314,Normal
+3315,Bearing Fault
+3316,Normal
+3317,Normal
+3318,Normal
+3319,Normal
+3320,Normal
+3321,Normal
+3322,Normal
+3323,Normal
+3324,Bearing Fault
+3325,Bearing Fault
+3326,Bearing Fault
+3327,Normal
+3328,Normal
+3329,Normal
+3330,Normal
+3331,Normal
+3332,Normal
+3333,Normal
+3334,Imbalance
+3335,Normal
+3336,Normal
+3337,Normal
+3338,Normal
+3339,Normal
+3340,Normal
+3341,Normal
+3342,Normal
+3343,Bearing Fault
+3344,Bearing Fault
+3345,Normal
+3346,Normal
+3347,Normal
+3348,Normal
+3349,Normal
+3350,Bearing Fault
+3351,Normal
+3352,Normal
+3353,Bearing Fault
+3354,Normal
+3355,Normal
+3356,Bearing Fault
+3357,Normal
+3358,Bearing Fault
+3359,Imbalance
+3360,Normal
+3361,Normal
+3362,Normal
+3363,Bearing Fault
+3364,Normal
+3365,Normal
+3366,Normal
+3367,Normal
+3368,Normal
+3369,Normal
+3370,Normal
+3371,Bearing Fault
+3372,Normal
+3373,Bearing Fault
+3374,Imbalance
+3375,Normal
+3376,Bearing Fault
+3377,Normal
+3378,Normal
+3379,Bearing Fault
+3380,Normal
+3381,Normal
+3382,Normal
+3383,Normal
+3384,Normal
+3385,Normal
+3386,Normal
+3387,Normal
+3388,Bearing Fault
+3389,Normal
+3390,Normal
+3391,Normal
+3392,Bearing Fault
+3393,Normal
+3394,Normal
+3395,Bearing Fault
+3396,Normal
+3397,Normal
+3398,Normal
+3399,Normal
+3400,Normal
+3401,Normal
+3402,Normal
+3403,Normal
+3404,Bearing Fault
+3405,Normal
+3406,Imbalance
+3407,Normal
+3408,Normal
+3409,Bearing Fault
+3410,Normal
+3411,Normal
+3412,Normal
+3413,Normal
+3414,Normal
+3415,Normal
+3416,Normal
+3417,Normal
+3418,Normal
+3419,Bearing Fault
+3420,Normal
+3421,Bearing Fault
+3422,Bearing Fault
+3423,Normal
+3424,Normal
+3425,Normal
+3426,Bearing Fault
+3427,Normal
+3428,Imbalance
+3429,Normal
+3430,Normal
+3431,Normal
+3432,Normal
+3433,Normal
+3434,Normal
+3435,Normal
+3436,Normal
+3437,Normal
+3438,Normal
+3439,Bearing Fault
+3440,Normal
+3441,Bearing Fault
+3442,Bearing Fault
+3443,Normal
+3444,Bearing Fault
+3445,Normal
+3446,Normal
+3447,Normal
+3448,Normal
+3449,Bearing Fault
+3450,Normal
+3451,Normal
+3452,Normal
+3453,Normal
+3454,Bearing Fault
+3455,Bearing Fault
+3456,Normal
+3457,Normal
+3458,Normal
+3459,Normal
+3460,Normal
+3461,Normal
+3462,Normal
+3463,Normal
+3464,Bearing Fault
+3465,Bearing Fault
+3466,Normal
+3467,Normal
+3468,Normal
+3469,Normal
+3470,Normal
+3471,Normal
+3472,Normal
+3473,Normal
+3474,Normal
+3475,Normal
+3476,Normal
+3477,Bearing Fault
+3478,Bearing Fault
+3479,Normal
+3480,Bearing Fault
+3481,Normal
+3482,Normal
+3483,Normal
+3484,Normal
+3485,Normal
+3486,Normal
+3487,Bearing Fault
+3488,Normal
+3489,Normal
+3490,Normal
+3491,Normal
+3492,Bearing Fault
+3493,Normal
+3494,Bearing Fault
+3495,Normal
+3496,Normal
+3497,Normal
+3498,Normal
+3499,Normal
+3500,Normal
+3501,Imbalance
+3502,Bearing Fault
+3503,Imbalance
+3504,Imbalance
+3505,Normal
+3506,Imbalance
+3507,Normal
+3508,Normal
+3509,Normal
+3510,Normal
+3511,Normal
+3512,Normal
+3513,Normal
+3514,Bearing Fault
+3515,Normal
+3516,Normal
+3517,Bearing Fault
+3518,Normal
+3519,Bearing Fault
+3520,Bearing Fault
+3521,Bearing Fault
+3522,Normal
+3523,Normal
+3524,Bearing Fault
+3525,Normal
+3526,Bearing Fault
+3527,Imbalance
+3528,Normal
+3529,Normal
+3530,Normal
+3531,Normal
+3532,Bearing Fault
+3533,Bearing Fault
+3534,Normal
+3535,Imbalance
+3536,Normal
+3537,Bearing Fault
+3538,Normal
+3539,Normal
+3540,Normal
+3541,Bearing Fault
+3542,Normal
+3543,Normal
+3544,Normal
+3545,Bearing Fault
+3546,Normal
+3547,Normal
+3548,Normal
+3549,Normal
+3550,Normal
+3551,Bearing Fault
+3552,Normal
+3553,Normal
+3554,Normal
+3555,Bearing Fault
+3556,Imbalance
+3557,Normal
+3558,Bearing Fault
+3559,Normal
+3560,Normal
+3561,Bearing Fault
+3562,Normal
+3563,Normal
+3564,Bearing Fault
+3565,Bearing Fault
+3566,Normal
+3567,Normal
+3568,Normal
+3569,Normal
+3570,Normal
+3571,Normal
+3572,Normal
+3573,Normal
+3574,Normal
+3575,Normal
+3576,Bearing Fault
+3577,Normal
+3578,Normal
+3579,Normal
+3580,Bearing Fault
+3581,Bearing Fault
+3582,Normal
+3583,Bearing Fault
+3584,Bearing Fault
+3585,Normal
+3586,Bearing Fault
+3587,Normal
+3588,Normal
+3589,Normal
+3590,Normal
+3591,Normal
+3592,Bearing Fault
+3593,Normal
+3594,Bearing Fault
+3595,Normal
+3596,Normal
+3597,Normal
+3598,Normal
+3599,Normal
+3600,Normal
+3601,Bearing Fault
+3602,Bearing Fault
+3603,Normal
+3604,Normal
+3605,Normal
+3606,Normal
+3607,Normal
+3608,Normal
+3609,Normal
+3610,Normal
+3611,Normal
+3612,Normal
+3613,Normal
+3614,Bearing Fault
+3615,Normal
+3616,Normal
+3617,Bearing Fault
+3618,Normal
+3619,Normal
+3620,Normal
+3621,Bearing Fault
+3622,Bearing Fault
+3623,Normal
+3624,Normal
+3625,Normal
+3626,Bearing Fault
+3627,Bearing Fault
+3628,Normal
+3629,Normal
+3630,Bearing Fault
+3631,Bearing Fault
+3632,Normal
+3633,Normal
+3634,Bearing Fault
+3635,Bearing Fault
+3636,Normal
+3637,Normal
+3638,Bearing Fault
+3639,Normal
+3640,Bearing Fault
+3641,Normal
+3642,Normal
+3643,Normal
+3644,Normal
+3645,Normal
+3646,Normal
+3647,Normal
+3648,Normal
+3649,Normal
+3650,Normal
+3651,Normal
+3652,Normal
+3653,Normal
+3654,Normal
+3655,Normal
+3656,Normal
+3657,Normal
+3658,Normal
+3659,Normal
+3660,Normal
+3661,Normal
+3662,Normal
+3663,Bearing Fault
+3664,Normal
+3665,Normal
+3666,Bearing Fault
+3667,Normal
+3668,Bearing Fault
+3669,Normal
+3670,Normal
+3671,Normal
+3672,Bearing Fault
+3673,Normal
+3674,Bearing Fault
+3675,Normal
+3676,Bearing Fault
+3677,Bearing Fault
+3678,Normal
+3679,Bearing Fault
+3680,Normal
+3681,Normal
+3682,Normal
+3683,Normal
+3684,Normal
+3685,Normal
+3686,Normal
+3687,Normal
+3688,Normal
+3689,Normal
+3690,Normal
+3691,Bearing Fault
+3692,Normal
+3693,Normal
+3694,Normal
+3695,Normal
+3696,Bearing Fault
+3697,Normal
+3698,Normal
+3699,Imbalance
+3700,Normal
+3701,Bearing Fault
+3702,Normal
+3703,Normal
+3704,Bearing Fault
+3705,Bearing Fault
+3706,Bearing Fault
+3707,Normal
+3708,Normal
+3709,Normal
+3710,Normal
+3711,Normal
+3712,Bearing Fault
+3713,Bearing Fault
+3714,Normal
+3715,Normal
+3716,Normal
+3717,Normal
+3718,Normal
+3719,Normal
+3720,Normal
+3721,Normal
+3722,Bearing Fault
+3723,Normal
+3724,Normal
+3725,Bearing Fault
+3726,Normal
+3727,Normal
+3728,Bearing Fault
+3729,Normal
+3730,Normal
+3731,Normal
+3732,Bearing Fault
+3733,Bearing Fault
+3734,Normal
+3735,Normal
+3736,Normal
+3737,Normal
+3738,Bearing Fault
+3739,Normal
+3740,Normal
+3741,Normal
+3742,Normal
+3743,Bearing Fault
+3744,Normal
+3745,Normal
+3746,Bearing Fault
+3747,Normal
+3748,Normal
+3749,Normal
+3750,Normal
+3751,Normal
+3752,Normal
+3753,Normal
+3754,Normal
+3755,Normal
+3756,Bearing Fault
+3757,Normal
+3758,Normal
+3759,Bearing Fault
+3760,Normal
+3761,Normal
+3762,Normal
+3763,Normal
+3764,Normal
+3765,Normal
+3766,Bearing Fault
+3767,Normal
+3768,Bearing Fault
+3769,Normal
+3770,Normal
+3771,Normal
+3772,Bearing Fault
+3773,Normal
+3774,Bearing Fault
+3775,Normal
+3776,Normal
+3777,Normal
+3778,Normal
+3779,Normal
+3780,Normal
+3781,Normal
+3782,Bearing Fault
+3783,Normal
+3784,Normal
+3785,Normal
+3786,Bearing Fault
+3787,Normal
+3788,Normal
+3789,Normal
+3790,Imbalance
+3791,Normal
+3792,Normal
+3793,Bearing Fault
+3794,Bearing Fault
+3795,Normal
+3796,Bearing Fault
+3797,Normal
+3798,Bearing Fault
+3799,Normal
+3800,Normal
+3801,Normal
+3802,Normal
+3803,Normal
+3804,Bearing Fault
+3805,Normal
+3806,Normal
+3807,Normal
+3808,Normal
+3809,Normal
+3810,Normal
+3811,Normal
+3812,Bearing Fault
+3813,Bearing Fault
+3814,Bearing Fault
+3815,Normal
+3816,Normal
+3817,Bearing Fault
+3818,Bearing Fault
+3819,Normal
+3820,Normal
+3821,Normal
+3822,Normal
+3823,Normal
+3824,Normal
+3825,Bearing Fault
+3826,Normal
+3827,Normal
+3828,Normal
+3829,Normal
+3830,Normal
+3831,Normal
+3832,Normal
+3833,Normal
+3834,Bearing Fault
+3835,Normal
+3836,Bearing Fault
+3837,Normal
+3838,Normal
+3839,Bearing Fault
+3840,Bearing Fault
+3841,Bearing Fault
+3842,Normal
+3843,Normal
+3844,Normal
+3845,Normal
+3846,Normal
+3847,Normal
+3848,Bearing Fault
+3849,Normal
+3850,Normal
+3851,Normal
+3852,Bearing Fault
+3853,Normal
+3854,Bearing Fault
+3855,Normal
+3856,Bearing Fault
+3857,Normal
+3858,Imbalance
+3859,Normal
+3860,Normal
+3861,Bearing Fault
+3862,Normal
+3863,Bearing Fault
+3864,Normal
+3865,Normal
+3866,Normal
+3867,Normal
+3868,Normal
+3869,Bearing Fault
+3870,Bearing Fault
+3871,Bearing Fault
+3872,Normal
+3873,Normal
+3874,Bearing Fault
+3875,Bearing Fault
+3876,Normal
+3877,Bearing Fault
+3878,Normal
+3879,Normal
+3880,Normal
+3881,Normal
+3882,Normal
+3883,Bearing Fault
+3884,Normal
+3885,Normal
+3886,Normal
+3887,Normal
+3888,Normal
+3889,Normal
+3890,Bearing Fault
+3891,Bearing Fault
+3892,Normal
+3893,Normal
+3894,Bearing Fault
+3895,Normal
+3896,Normal
+3897,Normal
+3898,Normal
+3899,Normal
+3900,Normal
+3901,Normal
+3902,Bearing Fault
+3903,Normal
+3904,Bearing Fault
+3905,Normal
+3906,Normal
+3907,Bearing Fault
+3908,Bearing Fault
+3909,Normal
+3910,Normal
+3911,Normal
+3912,Bearing Fault
+3913,Normal
+3914,Bearing Fault
+3915,Normal
+3916,Bearing Fault
+3917,Normal
+3918,Bearing Fault
+3919,Normal
+3920,Bearing Fault
+3921,Normal
+3922,Normal
+3923,Bearing Fault
+3924,Normal
+3925,Normal
+3926,Normal
+3927,Normal
+3928,Normal
+3929,Normal
+3930,Normal
+3931,Normal
+3932,Normal
+3933,Normal
+3934,Normal
+3935,Normal
+3936,Normal
+3937,Bearing Fault
+3938,Bearing Fault
+3939,Normal
+3940,Normal
+3941,Bearing Fault
+3942,Imbalance
+3943,Normal
+3944,Normal
+3945,Bearing Fault
+3946,Bearing Fault
+3947,Normal
+3948,Normal
+3949,Normal
+3950,Normal
+3951,Normal
+3952,Bearing Fault
+3953,Normal
+3954,Normal
+3955,Normal
+3956,Normal
+3957,Normal
+3958,Normal
+3959,Normal
+3960,Normal
+3961,Normal
+3962,Normal
+3963,Imbalance
+3964,Normal
+3965,Normal
+3966,Bearing Fault
+3967,Normal
+3968,Normal
+3969,Normal
+3970,Normal
+3971,Bearing Fault
+3972,Normal
+3973,Normal
+3974,Normal
+3975,Bearing Fault
+3976,Normal
+3977,Normal
+3978,Bearing Fault
+3979,Bearing Fault
+3980,Bearing Fault
+3981,Normal
+3982,Normal
+3983,Normal
+3984,Normal
+3985,Normal
+3986,Normal
+3987,Normal
+3988,Normal
+3989,Bearing Fault
+3990,Normal
+3991,Bearing Fault
+3992,Normal
+3993,Normal
+3994,Normal
+3995,Bearing Fault
+3996,Bearing Fault
+3997,Normal
+3998,Normal
+3999,Bearing Fault
+4000,Normal
+4001,Bearing Fault
+4002,Normal
+4003,Normal
+4004,Normal
+4005,Normal
+4006,Normal
+4007,Bearing Fault
+4008,Normal
+4009,Bearing Fault
+4010,Normal
+4011,Bearing Fault
+4012,Normal
+4013,Bearing Fault
+4014,Normal
+4015,Normal
+4016,Bearing Fault
+4017,Normal
+4018,Normal
+4019,Normal
+4020,Normal
+4021,Normal
+4022,Normal
+4023,Bearing Fault
+4024,Bearing Fault
+4025,Normal
+4026,Normal
+4027,Normal
+4028,Imbalance
+4029,Normal
+4030,Normal
+4031,Normal
+4032,Normal
+4033,Imbalance
+4034,Normal
+4035,Normal
+4036,Bearing Fault
+4037,Normal
+4038,Normal
+4039,Normal
+4040,Normal
+4041,Normal
+4042,Normal
+4043,Bearing Fault
+4044,Normal
+4045,Normal
+4046,Normal
+4047,Normal
+4048,Normal
+4049,Bearing Fault
+4050,Bearing Fault
+4051,Normal
+4052,Bearing Fault
+4053,Bearing Fault
+4054,Normal
+4055,Normal
+4056,Normal
+4057,Normal
+4058,Bearing Fault
+4059,Normal
+4060,Normal
+4061,Normal
+4062,Normal
+4063,Normal
+4064,Bearing Fault
+4065,Bearing Fault
+4066,Normal
+4067,Bearing Fault
+4068,Normal
+4069,Normal
+4070,Bearing Fault
+4071,Normal
+4072,Bearing Fault
+4073,Normal
+4074,Normal
+4075,Normal
+4076,Normal
+4077,Bearing Fault
+4078,Bearing Fault
+4079,Normal
+4080,Normal
+4081,Normal
+4082,Normal
+4083,Normal
+4084,Bearing Fault
+4085,Normal
+4086,Normal
+4087,Normal
+4088,Normal
+4089,Normal
+4090,Normal
+4091,Bearing Fault
+4092,Normal
+4093,Normal
+4094,Normal
+4095,Normal
+4096,Bearing Fault
+4097,Normal
+4098,Normal
+4099,Bearing Fault
+4100,Normal
+4101,Normal
+4102,Normal
+4103,Normal
+4104,Normal
+4105,Normal
+4106,Normal
+4107,Normal
+4108,Imbalance
+4109,Normal
+4110,Normal
+4111,Normal
+4112,Normal
+4113,Normal
+4114,Bearing Fault
+4115,Normal
+4116,Normal
+4117,Normal
+4118,Normal
+4119,Normal
+4120,Normal
+4121,Normal
+4122,Normal
+4123,Imbalance
+4124,Normal
+4125,Normal
+4126,Normal
+4127,Normal
+4128,Normal
+4129,Bearing Fault
+4130,Normal
+4131,Normal
+4132,Bearing Fault
+4133,Bearing Fault
+4134,Normal
+4135,Normal
+4136,Normal
+4137,Normal
+4138,Bearing Fault
+4139,Imbalance
+4140,Normal
+4141,Normal
+4142,Normal
+4143,Normal
+4144,Normal
+4145,Normal
+4146,Bearing Fault
+4147,Normal
+4148,Normal
+4149,Normal
+4150,Normal
+4151,Normal
+4152,Normal
+4153,Normal
+4154,Normal
+4155,Normal
+4156,Normal
+4157,Normal
+4158,Normal
+4159,Bearing Fault
+4160,Bearing Fault
+4161,Bearing Fault
+4162,Bearing Fault
+4163,Bearing Fault
+4164,Normal
+4165,Normal
+4166,Normal
+4167,Normal
+4168,Normal
+4169,Normal
+4170,Bearing Fault
+4171,Normal
+4172,Normal
+4173,Normal
+4174,Normal
+4175,Normal
+4176,Normal
+4177,Bearing Fault
+4178,Normal
+4179,Bearing Fault
+4180,Bearing Fault
+4181,Bearing Fault
+4182,Bearing Fault
+4183,Normal
+4184,Bearing Fault
+4185,Bearing Fault
+4186,Normal
+4187,Bearing Fault
+4188,Bearing Fault
+4189,Bearing Fault
+4190,Normal
+4191,Normal
+4192,Bearing Fault
+4193,Normal
+4194,Normal
+4195,Normal
+4196,Normal
+4197,Imbalance
+4198,Normal
+4199,Normal
+4200,Normal
+4201,Normal
+4202,Normal
+4203,Normal
+4204,Imbalance
+4205,Bearing Fault
+4206,Normal
+4207,Normal
+4208,Normal
+4209,Imbalance
+4210,Normal
+4211,Normal
+4212,Normal
+4213,Bearing Fault
+4214,Normal
+4215,Normal
+4216,Normal
+4217,Normal
+4218,Normal
+4219,Normal
+4220,Normal
+4221,Bearing Fault
+4222,Normal
+4223,Normal
+4224,Normal
+4225,Normal
+4226,Bearing Fault
+4227,Normal
+4228,Normal
+4229,Normal
+4230,Normal
+4231,Normal
+4232,Normal
+4233,Bearing Fault
+4234,Bearing Fault
+4235,Bearing Fault
+4236,Normal
+4237,Normal
+4238,Bearing Fault
+4239,Normal
+4240,Normal
+4241,Normal
+4242,Normal
+4243,Normal
+4244,Normal
+4245,Normal
+4246,Normal
+4247,Normal
+4248,Normal
+4249,Normal
+4250,Normal
+4251,Normal
+4252,Normal
+4253,Normal
+4254,Imbalance
+4255,Normal
+4256,Normal
+4257,Normal
+4258,Normal
+4259,Normal
+4260,Normal
+4261,Normal
+4262,Normal
+4263,Normal
+4264,Bearing Fault
+4265,Bearing Fault
+4266,Normal
+4267,Normal
+4268,Normal
+4269,Normal
+4270,Normal
+4271,Imbalance
+4272,Normal
+4273,Normal
+4274,Normal
+4275,Normal
+4276,Normal
+4277,Bearing Fault
+4278,Imbalance
+4279,Normal
+4280,Normal
+4281,Normal
+4282,Normal
+4283,Bearing Fault
+4284,Bearing Fault
+4285,Normal
+4286,Normal
+4287,Normal
+4288,Bearing Fault
+4289,Bearing Fault
+4290,Bearing Fault
+4291,Normal
+4292,Normal
+4293,Bearing Fault
+4294,Normal
+4295,Normal
+4296,Normal
+4297,Normal
+4298,Bearing Fault
+4299,Normal
+4300,Normal
+4301,Normal
+4302,Normal
+4303,Normal
+4304,Normal
+4305,Normal
+4306,Bearing Fault
+4307,Bearing Fault
+4308,Normal
+4309,Normal
+4310,Normal
+4311,Imbalance
+4312,Normal
+4313,Bearing Fault
+4314,Normal
+4315,Normal
+4316,Normal
+4317,Bearing Fault
+4318,Bearing Fault
+4319,Normal
+4320,Bearing Fault
+4321,Bearing Fault
+4322,Normal
+4323,Normal
+4324,Bearing Fault
+4325,Normal
+4326,Normal
+4327,Normal
+4328,Normal
+4329,Normal
+4330,Normal
+4331,Normal
+4332,Normal
+4333,Normal
+4334,Bearing Fault
+4335,Normal
+4336,Normal
+4337,Normal
+4338,Bearing Fault
+4339,Normal
+4340,Imbalance
+4341,Normal
+4342,Normal
+4343,Normal
+4344,Bearing Fault
+4345,Bearing Fault
+4346,Normal
+4347,Normal
+4348,Normal
+4349,Imbalance
+4350,Normal
+4351,Normal
+4352,Normal
+4353,Normal
+4354,Normal
+4355,Normal
+4356,Normal
+4357,Normal
+4358,Normal
+4359,Normal
+4360,Normal
+4361,Bearing Fault
+4362,Normal
+4363,Normal
+4364,Normal
+4365,Bearing Fault
+4366,Normal
+4367,Normal
+4368,Normal
+4369,Bearing Fault
+4370,Normal
+4371,Normal
+4372,Normal
+4373,Normal
+4374,Normal
+4375,Normal
+4376,Normal
+4377,Normal
+4378,Normal
+4379,Bearing Fault
+4380,Normal
+4381,Normal
+4382,Normal
+4383,Normal
+4384,Bearing Fault
+4385,Normal
+4386,Normal
+4387,Normal
+4388,Normal
+4389,Normal
+4390,Normal
+4391,Normal
+4392,Normal
+4393,Normal
+4394,Normal
+4395,Normal
+4396,Normal
+4397,Normal
+4398,Normal
+4399,Normal
+4400,Bearing Fault
+4401,Normal
+4402,Normal
+4403,Normal
+4404,Normal
+4405,Normal
+4406,Bearing Fault
+4407,Bearing Fault
+4408,Bearing Fault
+4409,Normal
+4410,Normal
+4411,Normal
+4412,Normal
+4413,Normal
+4414,Normal
+4415,Normal
+4416,Normal
+4417,Normal
+4418,Normal
+4419,Normal
+4420,Normal
+4421,Normal
+4422,Bearing Fault
+4423,Normal
+4424,Bearing Fault
+4425,Normal
+4426,Bearing Fault
+4427,Normal
+4428,Normal
+4429,Normal
+4430,Normal
+4431,Normal
+4432,Normal
+4433,Normal
+4434,Normal
+4435,Normal
+4436,Imbalance
+4437,Normal
+4438,Bearing Fault
+4439,Normal
+4440,Normal
+4441,Normal
+4442,Bearing Fault
+4443,Normal
+4444,Normal
+4445,Normal
+4446,Normal
+4447,Normal
+4448,Normal
+4449,Normal
+4450,Normal
+4451,Normal
+4452,Bearing Fault
+4453,Normal
+4454,Normal
+4455,Normal
+4456,Normal
+4457,Bearing Fault
+4458,Normal
+4459,Bearing Fault
+4460,Bearing Fault
+4461,Normal
+4462,Normal
+4463,Bearing Fault
+4464,Normal
+4465,Normal
+4466,Normal
+4467,Normal
+4468,Bearing Fault
+4469,Normal
+4470,Bearing Fault
+4471,Normal
+4472,Normal
+4473,Normal
+4474,Normal
+4475,Normal
+4476,Normal
+4477,Normal
+4478,Normal
+4479,Normal
+4480,Normal
+4481,Normal
+4482,Normal
+4483,Normal
+4484,Normal
+4485,Bearing Fault
+4486,Normal
+4487,Normal
+4488,Bearing Fault
+4489,Normal
+4490,Normal
+4491,Bearing Fault
+4492,Normal
+4493,Normal
+4494,Normal
+4495,Bearing Fault
+4496,Normal
+4497,Bearing Fault
+4498,Normal
+4499,Bearing Fault
+4500,Normal
+4501,Normal
+4502,Normal
+4503,Bearing Fault
+4504,Normal
+4505,Normal
+4506,Bearing Fault
+4507,Bearing Fault
+4508,Bearing Fault
+4509,Normal
+4510,Bearing Fault
+4511,Normal
+4512,Normal
+4513,Normal
+4514,Bearing Fault
+4515,Normal
+4516,Normal
+4517,Bearing Fault
+4518,Normal
+4519,Normal
+4520,Normal
+4521,Normal
+4522,Normal
+4523,Normal
+4524,Normal
+4525,Normal
+4526,Bearing Fault
+4527,Bearing Fault
+4528,Normal
+4529,Normal
+4530,Normal
+4531,Normal
+4532,Bearing Fault
+4533,Normal
+4534,Normal
+4535,Normal
+4536,Normal
+4537,Normal
+4538,Normal
+4539,Normal
+4540,Normal
+4541,Bearing Fault
+4542,Normal
+4543,Imbalance
+4544,Normal
+4545,Normal
+4546,Normal
+4547,Normal
+4548,Normal
+4549,Normal
+4550,Normal
+4551,Normal
+4552,Normal
+4553,Normal
+4554,Bearing Fault
+4555,Normal
+4556,Normal
+4557,Bearing Fault
+4558,Imbalance
+4559,Bearing Fault
+4560,Normal
+4561,Normal
+4562,Normal
+4563,Normal
+4564,Normal
+4565,Normal
+4566,Normal
+4567,Imbalance
+4568,Normal
+4569,Bearing Fault
+4570,Normal
+4571,Bearing Fault
+4572,Normal
+4573,Normal
+4574,Normal
+4575,Normal
+4576,Normal
+4577,Normal
+4578,Normal
+4579,Normal
+4580,Bearing Fault
+4581,Normal
+4582,Normal
+4583,Normal
+4584,Normal
+4585,Normal
+4586,Bearing Fault
+4587,Normal
+4588,Bearing Fault
+4589,Normal
+4590,Normal
+4591,Normal
+4592,Normal
+4593,Bearing Fault
+4594,Normal
+4595,Normal
+4596,Normal
+4597,Bearing Fault
+4598,Normal
+4599,Normal
+4600,Normal
+4601,Normal
+4602,Normal
+4603,Bearing Fault
+4604,Normal
+4605,Bearing Fault
+4606,Bearing Fault
+4607,Normal
+4608,Bearing Fault
+4609,Normal
+4610,Normal
+4611,Normal
+4612,Normal
+4613,Normal
+4614,Bearing Fault
+4615,Normal
+4616,Normal
+4617,Normal
+4618,Normal
+4619,Bearing Fault
+4620,Bearing Fault
+4621,Normal
+4622,Normal
+4623,Normal
+4624,Normal
+4625,Bearing Fault
+4626,Normal
+4627,Normal
+4628,Normal
+4629,Normal
+4630,Normal
+4631,Normal
+4632,Bearing Fault
+4633,Bearing Fault
+4634,Normal
+4635,Bearing Fault
+4636,Imbalance
+4637,Normal
+4638,Normal
+4639,Normal
+4640,Bearing Fault
+4641,Normal
+4642,Normal
+4643,Normal
+4644,Normal
+4645,Normal
+4646,Normal
+4647,Normal
+4648,Normal
+4649,Bearing Fault
+4650,Normal
+4651,Normal
+4652,Normal
+4653,Normal
+4654,Normal
+4655,Normal
+4656,Normal
+4657,Normal
+4658,Normal
+4659,Bearing Fault
+4660,Normal
+4661,Normal
+4662,Normal
+4663,Normal
+4664,Normal
+4665,Normal
+4666,Normal
+4667,Normal
+4668,Normal
+4669,Normal
+4670,Bearing Fault
+4671,Normal
+4672,Imbalance
+4673,Normal
+4674,Normal
+4675,Bearing Fault
+4676,Imbalance
+4677,Bearing Fault
+4678,Bearing Fault
+4679,Normal
+4680,Normal
+4681,Normal
+4682,Bearing Fault
+4683,Bearing Fault
+4684,Normal
+4685,Bearing Fault
+4686,Bearing Fault
+4687,Normal
+4688,Normal
+4689,Normal
+4690,Bearing Fault
+4691,Normal
+4692,Normal
+4693,Normal
+4694,Bearing Fault
+4695,Normal
+4696,Normal
+4697,Normal
+4698,Bearing Fault
+4699,Normal
+4700,Bearing Fault
+4701,Bearing Fault
+4702,Normal
+4703,Normal
+4704,Normal
+4705,Normal
+4706,Normal
+4707,Normal
+4708,Normal
+4709,Normal
+4710,Normal
+4711,Normal
+4712,Imbalance
+4713,Normal
+4714,Bearing Fault
+4715,Normal
+4716,Normal
+4717,Normal
+4718,Normal
+4719,Bearing Fault
+4720,Normal
+4721,Bearing Fault
+4722,Normal
+4723,Bearing Fault
+4724,Normal
+4725,Normal
+4726,Normal
+4727,Bearing Fault
+4728,Normal
+4729,Normal
+4730,Normal
+4731,Normal
+4732,Normal
+4733,Bearing Fault
+4734,Normal
+4735,Normal
+4736,Normal
+4737,Bearing Fault
+4738,Normal
+4739,Normal
+4740,Normal
+4741,Normal
+4742,Normal
+4743,Normal
+4744,Normal
+4745,Normal
+4746,Normal
+4747,Normal
+4748,Bearing Fault
+4749,Normal
+4750,Bearing Fault
+4751,Normal
+4752,Normal
+4753,Normal
+4754,Bearing Fault
+4755,Normal
+4756,Bearing Fault
+4757,Bearing Fault
+4758,Bearing Fault
+4759,Imbalance
+4760,Normal
+4761,Normal
+4762,Bearing Fault
+4763,Bearing Fault
+4764,Normal
+4765,Bearing Fault
+4766,Normal
+4767,Normal
+4768,Bearing Fault
+4769,Bearing Fault
+4770,Normal
+4771,Normal
+4772,Normal
+4773,Normal
+4774,Normal
+4775,Bearing Fault
+4776,Bearing Fault
+4777,Normal
+4778,Normal
+4779,Normal
+4780,Normal
+4781,Normal
+4782,Normal
+4783,Bearing Fault
+4784,Normal
+4785,Normal
+4786,Normal
+4787,Bearing Fault
+4788,Bearing Fault
+4789,Normal
+4790,Normal
+4791,Bearing Fault
+4792,Normal
+4793,Bearing Fault
+4794,Normal
+4795,Bearing Fault
+4796,Normal
+4797,Bearing Fault
+4798,Normal
+4799,Normal
+4800,Bearing Fault
+4801,Normal
+4802,Normal
+4803,Normal
+4804,Normal
+4805,Bearing Fault
+4806,Bearing Fault
+4807,Normal
+4808,Normal
+4809,Normal
+4810,Normal
+4811,Bearing Fault
+4812,Bearing Fault
+4813,Bearing Fault
+4814,Bearing Fault
+4815,Normal
+4816,Bearing Fault
+4817,Normal
+4818,Normal
+4819,Bearing Fault
+4820,Normal
+4821,Normal
+4822,Normal
+4823,Normal
+4824,Normal
+4825,Normal
+4826,Normal
+4827,Imbalance
+4828,Normal
+4829,Normal
+4830,Normal
+4831,Normal
+4832,Bearing Fault
+4833,Normal
+4834,Normal
+4835,Imbalance
+4836,Normal
+4837,Normal
+4838,Normal
+4839,Normal
+4840,Normal
+4841,Normal
+4842,Bearing Fault
+4843,Normal
+4844,Normal
+4845,Bearing Fault
+4846,Bearing Fault
+4847,Normal
+4848,Normal
+4849,Normal
+4850,Normal
+4851,Normal
+4852,Normal
+4853,Normal
+4854,Normal
+4855,Normal
+4856,Normal
+4857,Normal
+4858,Bearing Fault
+4859,Normal
+4860,Normal
+4861,Bearing Fault
+4862,Normal
+4863,Normal
+4864,Normal
+4865,Normal
+4866,Normal
+4867,Normal
+4868,Normal
+4869,Normal
+4870,Normal
+4871,Bearing Fault
+4872,Normal
+4873,Normal
+4874,Normal
+4875,Normal
+4876,Normal
+4877,Normal
+4878,Normal
+4879,Bearing Fault
+4880,Normal
+4881,Normal
+4882,Normal
+4883,Normal
+4884,Normal
+4885,Bearing Fault
+4886,Normal
+4887,Normal
+4888,Normal
+4889,Normal
+4890,Normal
+4891,Normal
+4892,Normal
+4893,Normal
+4894,Normal
+4895,Normal
+4896,Normal
+4897,Normal
+4898,Normal
+4899,Bearing Fault
+4900,Normal
+4901,Normal
+4902,Normal
+4903,Bearing Fault
+4904,Normal
+4905,Normal
+4906,Normal
+4907,Normal
+4908,Normal
+4909,Normal
+4910,Bearing Fault
+4911,Normal
+4912,Normal
+4913,Normal
+4914,Bearing Fault
+4915,Normal
+4916,Normal
+4917,Normal
+4918,Normal
+4919,Normal
+4920,Bearing Fault
+4921,Normal
+4922,Bearing Fault
+4923,Bearing Fault
+4924,Normal
+4925,Normal
+4926,Normal
+4927,Bearing Fault
+4928,Bearing Fault
+4929,Normal
+4930,Normal
+4931,Normal
+4932,Bearing Fault
+4933,Bearing Fault
+4934,Normal
+4935,Normal
+4936,Normal
+4937,Normal
+4938,Normal
+4939,Normal
+4940,Imbalance
+4941,Normal
+4942,Normal
+4943,Normal
+4944,Normal
+4945,Normal
+4946,Bearing Fault
+4947,Normal
+4948,Normal
+4949,Normal
+4950,Normal
+4951,Normal
+4952,Normal
+4953,Normal
+4954,Bearing Fault
+4955,Bearing Fault
+4956,Normal
+4957,Normal
+4958,Normal
+4959,Normal
+4960,Bearing Fault
+4961,Bearing Fault
+4962,Bearing Fault
+4963,Normal
+4964,Normal
+4965,Normal
+4966,Normal
+4967,Normal
+4968,Normal
+4969,Normal
+4970,Normal
+4971,Normal
+4972,Normal
+4973,Bearing Fault
+4974,Normal
+4975,Normal
+4976,Normal
+4977,Bearing Fault
+4978,Normal
+4979,Normal
+4980,Normal
+4981,Bearing Fault
+4982,Normal
+4983,Normal
+4984,Normal
+4985,Normal
+4986,Normal
+4987,Bearing Fault
+4988,Bearing Fault
+4989,Normal
+4990,Bearing Fault
+4991,Normal
+4992,Normal
+4993,Normal
+4994,Bearing Fault
+4995,Bearing Fault
+4996,Normal
+4997,Bearing Fault
+4998,Normal
+4999,Normal
+5000,Normal
+5001,Bearing Fault
+5002,Normal
+5003,Normal
+5004,Normal
+5005,Normal
+5006,Bearing Fault
+5007,Normal
+5008,Normal
+5009,Bearing Fault
+5010,Normal
+5011,Normal
+5012,Normal
+5013,Normal
+5014,Normal
+5015,Normal
+5016,Imbalance
+5017,Normal
+5018,Normal
+5019,Normal
+5020,Normal
+5021,Normal
+5022,Normal
+5023,Bearing Fault
+5024,Normal
+5025,Normal
+5026,Normal
+5027,Normal
+5028,Normal
+5029,Normal
+5030,Normal
+5031,Bearing Fault
+5032,Normal
+5033,Normal
+5034,Normal
+5035,Normal
+5036,Normal
+5037,Normal
+5038,Normal
+5039,Normal
+5040,Normal
+5041,Normal
+5042,Normal
+5043,Bearing Fault
+5044,Normal
+5045,Normal
+5046,Normal
+5047,Normal
+5048,Normal
+5049,Normal
+5050,Normal
+5051,Normal
+5052,Normal
+5053,Normal
+5054,Normal
+5055,Normal
+5056,Normal
+5057,Bearing Fault
+5058,Normal
+5059,Normal
+5060,Normal
+5061,Bearing Fault
+5062,Normal
+5063,Normal
+5064,Normal
+5065,Normal
+5066,Normal
+5067,Bearing Fault
+5068,Normal
+5069,Normal
+5070,Normal
+5071,Normal
+5072,Normal
+5073,Normal
+5074,Bearing Fault
+5075,Bearing Fault
+5076,Bearing Fault
+5077,Normal
+5078,Normal
+5079,Bearing Fault
+5080,Bearing Fault
+5081,Normal
+5082,Normal
+5083,Bearing Fault
+5084,Normal
+5085,Normal
+5086,Normal
+5087,Normal
+5088,Normal
+5089,Bearing Fault
+5090,Normal
+5091,Normal
+5092,Normal
+5093,Normal
+5094,Normal
+5095,Bearing Fault
+5096,Normal
+5097,Normal
+5098,Normal
+5099,Bearing Fault
+5100,Normal
+5101,Normal
+5102,Normal
+5103,Normal
+5104,Normal
+5105,Normal
+5106,Normal
+5107,Normal
+5108,Normal
+5109,Normal
+5110,Bearing Fault
+5111,Normal
+5112,Normal
+5113,Bearing Fault
+5114,Normal
+5115,Bearing Fault
+5116,Normal
+5117,Normal
+5118,Normal
+5119,Bearing Fault
+5120,Bearing Fault
+5121,Bearing Fault
+5122,Normal
+5123,Normal
+5124,Normal
+5125,Normal
+5126,Normal
+5127,Normal
+5128,Normal
+5129,Normal
+5130,Normal
+5131,Bearing Fault
+5132,Normal
+5133,Bearing Fault
+5134,Normal
+5135,Bearing Fault
+5136,Imbalance
+5137,Normal
+5138,Bearing Fault
+5139,Normal
+5140,Normal
+5141,Normal
+5142,Normal
+5143,Normal
+5144,Bearing Fault
+5145,Normal
+5146,Bearing Fault
+5147,Normal
+5148,Bearing Fault
+5149,Normal
+5150,Normal
+5151,Bearing Fault
+5152,Normal
+5153,Normal
+5154,Bearing Fault
+5155,Normal
+5156,Bearing Fault
+5157,Bearing Fault
+5158,Normal
+5159,Normal
+5160,Normal
+5161,Bearing Fault
+5162,Normal
+5163,Normal
+5164,Normal
+5165,Normal
+5166,Normal
+5167,Normal
+5168,Normal
+5169,Normal
+5170,Bearing Fault
+5171,Bearing Fault
+5172,Normal
+5173,Normal
+5174,Bearing Fault
+5175,Bearing Fault
+5176,Normal
+5177,Imbalance
+5178,Normal
+5179,Normal
+5180,Normal
+5181,Normal
+5182,Normal
+5183,Normal
+5184,Normal
+5185,Normal
+5186,Normal
+5187,Normal
+5188,Normal
+5189,Normal
+5190,Bearing Fault
+5191,Normal
+5192,Normal
+5193,Bearing Fault
+5194,Normal
+5195,Normal
+5196,Normal
+5197,Normal
+5198,Normal
+5199,Normal
+5200,Normal
+5201,Normal
+5202,Bearing Fault
+5203,Normal
+5204,Normal
+5205,Normal
+5206,Bearing Fault
+5207,Imbalance
+5208,Normal
+5209,Normal
+5210,Normal
+5211,Normal
+5212,Normal
+5213,Normal
+5214,Imbalance
+5215,Imbalance
+5216,Bearing Fault
+5217,Bearing Fault
+5218,Normal
+5219,Normal
+5220,Bearing Fault
+5221,Normal
+5222,Normal
+5223,Normal
+5224,Normal
+5225,Bearing Fault
+5226,Normal
+5227,Normal
+5228,Normal
+5229,Normal
+5230,Normal
+5231,Normal
+5232,Normal
+5233,Normal
+5234,Normal
+5235,Normal
+5236,Normal
+5237,Normal
+5238,Normal
+5239,Normal
+5240,Normal
+5241,Normal
+5242,Normal
+5243,Normal
+5244,Normal
+5245,Normal
+5246,Bearing Fault
+5247,Normal
+5248,Normal
+5249,Bearing Fault
+5250,Imbalance
+5251,Normal
+5252,Normal
+5253,Bearing Fault
+5254,Normal
+5255,Normal
+5256,Bearing Fault
+5257,Normal
+5258,Normal
+5259,Normal
+5260,Normal
+5261,Bearing Fault
+5262,Bearing Fault
+5263,Normal
+5264,Normal
+5265,Normal
+5266,Normal
+5267,Bearing Fault
+5268,Normal
+5269,Bearing Fault
+5270,Normal
+5271,Bearing Fault
+5272,Bearing Fault
+5273,Normal
+5274,Normal
+5275,Normal
+5276,Bearing Fault
+5277,Normal
+5278,Normal
+5279,Normal
+5280,Normal
+5281,Normal
+5282,Normal
+5283,Normal
+5284,Normal
+5285,Bearing Fault
+5286,Bearing Fault
+5287,Bearing Fault
+5288,Normal
+5289,Normal
+5290,Normal
+5291,Normal
+5292,Normal
+5293,Bearing Fault
+5294,Bearing Fault
+5295,Bearing Fault
+5296,Bearing Fault
+5297,Normal
+5298,Normal
+5299,Bearing Fault
+5300,Bearing Fault
+5301,Normal
+5302,Bearing Fault
+5303,Normal
+5304,Normal
+5305,Normal
+5306,Normal
+5307,Normal
+5308,Normal
+5309,Bearing Fault
+5310,Normal
+5311,Normal
+5312,Bearing Fault
+5313,Normal
+5314,Normal
+5315,Normal
+5316,Normal
+5317,Normal
+5318,Bearing Fault
+5319,Bearing Fault
+5320,Normal
+5321,Normal
+5322,Normal
+5323,Normal
+5324,Normal
+5325,Normal
+5326,Normal
+5327,Normal
+5328,Normal
+5329,Bearing Fault
+5330,Normal
+5331,Bearing Fault
+5332,Bearing Fault
+5333,Bearing Fault
+5334,Normal
+5335,Normal
+5336,Normal
+5337,Normal
+5338,Normal
+5339,Bearing Fault
+5340,Normal
+5341,Bearing Fault
+5342,Normal
+5343,Normal
+5344,Bearing Fault
+5345,Normal
+5346,Normal
+5347,Normal
+5348,Normal
+5349,Normal
+5350,Bearing Fault
+5351,Normal
+5352,Bearing Fault
+5353,Normal
+5354,Normal
+5355,Bearing Fault
+5356,Normal
+5357,Normal
+5358,Normal
+5359,Normal
+5360,Normal
+5361,Normal
+5362,Bearing Fault
+5363,Normal
+5364,Normal
+5365,Normal
+5366,Normal
+5367,Bearing Fault
+5368,Normal
+5369,Normal
+5370,Normal
+5371,Bearing Fault
+5372,Normal
+5373,Normal
+5374,Normal
+5375,Normal
+5376,Normal
+5377,Bearing Fault
+5378,Normal
+5379,Normal
+5380,Normal
+5381,Normal
+5382,Normal
+5383,Normal
+5384,Normal
+5385,Normal
+5386,Normal
+5387,Normal
+5388,Normal
+5389,Bearing Fault
+5390,Normal
+5391,Normal
+5392,Normal
+5393,Normal
+5394,Bearing Fault
+5395,Normal
+5396,Normal
+5397,Normal
+5398,Normal
+5399,Bearing Fault
+5400,Normal
+5401,Normal
+5402,Normal
+5403,Bearing Fault
+5404,Normal
+5405,Bearing Fault
+5406,Bearing Fault
+5407,Normal
+5408,Bearing Fault
+5409,Normal
+5410,Normal
+5411,Imbalance
+5412,Normal
+5413,Normal
+5414,Normal
+5415,Normal
+5416,Normal
+5417,Bearing Fault
+5418,Normal
+5419,Bearing Fault
+5420,Normal
+5421,Normal
+5422,Normal
+5423,Bearing Fault
+5424,Normal
+5425,Normal
+5426,Normal
+5427,Bearing Fault
+5428,Bearing Fault
+5429,Bearing Fault
+5430,Bearing Fault
+5431,Normal
+5432,Bearing Fault
+5433,Bearing Fault
+5434,Bearing Fault
+5435,Normal
+5436,Normal
+5437,Normal
+5438,Normal
+5439,Normal
+5440,Normal
+5441,Bearing Fault
+5442,Normal
+5443,Normal
+5444,Normal
+5445,Bearing Fault
+5446,Normal
+5447,Normal
+5448,Normal
+5449,Normal
+5450,Normal
+5451,Normal
+5452,Normal
+5453,Bearing Fault
+5454,Normal
+5455,Normal
+5456,Normal
+5457,Normal
+5458,Bearing Fault
+5459,Bearing Fault
+5460,Normal
+5461,Bearing Fault
+5462,Normal
+5463,Normal
+5464,Normal
+5465,Normal
+5466,Normal
+5467,Normal
+5468,Normal
+5469,Normal
+5470,Normal
+5471,Imbalance
+5472,Normal
+5473,Bearing Fault
+5474,Normal
+5475,Normal
+5476,Normal
+5477,Normal
+5478,Normal
+5479,Normal
+5480,Bearing Fault
+5481,Normal
+5482,Normal
+5483,Normal
+5484,Normal
+5485,Normal
+5486,Normal
+5487,Bearing Fault
+5488,Bearing Fault
+5489,Normal
+5490,Normal
+5491,Imbalance
+5492,Bearing Fault
+5493,Normal
+5494,Bearing Fault
+5495,Normal
+5496,Normal
+5497,Normal
+5498,Normal
+5499,Normal
+5500,Normal
+5501,Normal
+5502,Normal
+5503,Normal
+5504,Normal
+5505,Normal
+5506,Normal
+5507,Normal
+5508,Bearing Fault
+5509,Normal
+5510,Bearing Fault
+5511,Normal
+5512,Normal
+5513,Normal
+5514,Normal
+5515,Normal
+5516,Normal
+5517,Bearing Fault
+5518,Normal
+5519,Normal
+5520,Normal
+5521,Normal
+5522,Bearing Fault
+5523,Bearing Fault
+5524,Imbalance
+5525,Normal
+5526,Normal
+5527,Normal
+5528,Normal
+5529,Normal
+5530,Normal
+5531,Normal
+5532,Normal
+5533,Bearing Fault
+5534,Normal
+5535,Normal
+5536,Normal
+5537,Normal
+5538,Normal
+5539,Normal
+5540,Normal
+5541,Normal
+5542,Normal
+5543,Normal
+5544,Normal
+5545,Normal
+5546,Normal
+5547,Bearing Fault
+5548,Bearing Fault
+5549,Normal
+5550,Normal
+5551,Normal
+5552,Bearing Fault
+5553,Normal
+5554,Normal
+5555,Bearing Fault
+5556,Normal
+5557,Bearing Fault
+5558,Imbalance
+5559,Normal
+5560,Normal
+5561,Bearing Fault
+5562,Bearing Fault
+5563,Normal
+5564,Normal
+5565,Normal
+5566,Bearing Fault
+5567,Bearing Fault
+5568,Normal
+5569,Normal
+5570,Normal
+5571,Normal
+5572,Normal
+5573,Normal
+5574,Normal
+5575,Normal
+5576,Normal
+5577,Normal
+5578,Normal
+5579,Bearing Fault
+5580,Bearing Fault
+5581,Normal
+5582,Normal
+5583,Bearing Fault
+5584,Normal
+5585,Normal
+5586,Bearing Fault
+5587,Normal
+5588,Normal
+5589,Normal
+5590,Bearing Fault
+5591,Normal
+5592,Normal
+5593,Normal
+5594,Normal
+5595,Normal
+5596,Normal
+5597,Normal
+5598,Normal
+5599,Normal
+5600,Normal
+5601,Normal
+5602,Normal
+5603,Normal
+5604,Normal
+5605,Bearing Fault
+5606,Normal
+5607,Normal
+5608,Normal
+5609,Normal
+5610,Bearing Fault
+5611,Normal
+5612,Normal
+5613,Normal
+5614,Normal
+5615,Normal
+5616,Normal
+5617,Bearing Fault
+5618,Normal
+5619,Normal
+5620,Bearing Fault
+5621,Normal
+5622,Bearing Fault
+5623,Bearing Fault
+5624,Normal
+5625,Normal
+5626,Normal
+5627,Normal
+5628,Normal
+5629,Normal
+5630,Bearing Fault
+5631,Normal
+5632,Normal
+5633,Normal
+5634,Normal
+5635,Normal
+5636,Normal
+5637,Bearing Fault
+5638,Normal
+5639,Bearing Fault
+5640,Normal
+5641,Normal
+5642,Normal
+5643,Normal
+5644,Normal
+5645,Normal
+5646,Normal
+5647,Normal
+5648,Bearing Fault
+5649,Bearing Fault
+5650,Bearing Fault
+5651,Imbalance
+5652,Normal
+5653,Normal
+5654,Normal
+5655,Normal
+5656,Bearing Fault
+5657,Normal
+5658,Normal
+5659,Normal
+5660,Bearing Fault
+5661,Bearing Fault
+5662,Normal
+5663,Normal
+5664,Normal
+5665,Bearing Fault
+5666,Normal
+5667,Bearing Fault
+5668,Bearing Fault
+5669,Normal
+5670,Normal
+5671,Normal
+5672,Normal
+5673,Normal
+5674,Normal
+5675,Bearing Fault
+5676,Normal
+5677,Normal
+5678,Normal
+5679,Normal
+5680,Normal
+5681,Bearing Fault
+5682,Normal
+5683,Bearing Fault
+5684,Normal
+5685,Normal
+5686,Normal
+5687,Normal
+5688,Normal
+5689,Normal
+5690,Bearing Fault
+5691,Bearing Fault
+5692,Bearing Fault
+5693,Normal
+5694,Normal
+5695,Normal
+5696,Normal
+5697,Normal
+5698,Bearing Fault
+5699,Normal
+5700,Bearing Fault
+5701,Bearing Fault
+5702,Normal
+5703,Normal
+5704,Normal
+5705,Bearing Fault
+5706,Bearing Fault
+5707,Normal
+5708,Bearing Fault
+5709,Normal
+5710,Normal
+5711,Normal
+5712,Normal
+5713,Normal
+5714,Normal
+5715,Normal
+5716,Bearing Fault
+5717,Normal
+5718,Normal
+5719,Imbalance
+5720,Normal
+5721,Normal
+5722,Bearing Fault
+5723,Bearing Fault
+5724,Normal
+5725,Normal
+5726,Normal
+5727,Bearing Fault
+5728,Normal
+5729,Normal
+5730,Normal
+5731,Normal
+5732,Normal
+5733,Bearing Fault
+5734,Normal
+5735,Normal
+5736,Bearing Fault
+5737,Normal
+5738,Normal
+5739,Bearing Fault
+5740,Bearing Fault
+5741,Normal
+5742,Normal
+5743,Normal
+5744,Normal
+5745,Normal
+5746,Bearing Fault
+5747,Normal
+5748,Bearing Fault
+5749,Bearing Fault
+5750,Bearing Fault
+5751,Normal
+5752,Normal
+5753,Normal
+5754,Normal
+5755,Normal
+5756,Normal
+5757,Normal
+5758,Normal
+5759,Bearing Fault
+5760,Bearing Fault
+5761,Normal
+5762,Normal
+5763,Imbalance
+5764,Normal
+5765,Normal
+5766,Normal
+5767,Normal
+5768,Normal
+5769,Normal
+5770,Normal
+5771,Normal
+5772,Normal
+5773,Normal
+5774,Normal
+5775,Bearing Fault
+5776,Normal
+5777,Normal
+5778,Normal
+5779,Imbalance
+5780,Bearing Fault
+5781,Normal
+5782,Normal
+5783,Bearing Fault
+5784,Normal
+5785,Normal
+5786,Normal
+5787,Normal
+5788,Normal
+5789,Bearing Fault
+5790,Normal
+5791,Normal
+5792,Bearing Fault
+5793,Normal
+5794,Normal
+5795,Normal
+5796,Normal
+5797,Bearing Fault
+5798,Normal
+5799,Normal
+5800,Normal
+5801,Normal
+5802,Bearing Fault
+5803,Imbalance
+5804,Normal
+5805,Normal
+5806,Normal
+5807,Normal
+5808,Normal
+5809,Bearing Fault
+5810,Bearing Fault
+5811,Normal
+5812,Bearing Fault
+5813,Normal
+5814,Bearing Fault
+5815,Normal
+5816,Bearing Fault
+5817,Bearing Fault
+5818,Bearing Fault
+5819,Normal
+5820,Normal
+5821,Normal
+5822,Normal
+5823,Normal
+5824,Normal
+5825,Imbalance
+5826,Normal
+5827,Bearing Fault
+5828,Normal
+5829,Normal
+5830,Normal
+5831,Normal
+5832,Normal
+5833,Normal
+5834,Normal
+5835,Normal
+5836,Normal
+5837,Normal
+5838,Bearing Fault
+5839,Normal
+5840,Normal
+5841,Normal
+5842,Normal
+5843,Normal
+5844,Bearing Fault
+5845,Bearing Fault
+5846,Normal
+5847,Normal
+5848,Bearing Fault
+5849,Normal
+5850,Normal
+5851,Bearing Fault
+5852,Normal
+5853,Normal
+5854,Bearing Fault
+5855,Bearing Fault
+5856,Normal
+5857,Normal
+5858,Bearing Fault
+5859,Normal
+5860,Bearing Fault
+5861,Bearing Fault
+5862,Normal
+5863,Bearing Fault
+5864,Bearing Fault
+5865,Normal
+5866,Normal
+5867,Normal
+5868,Normal
+5869,Normal
+5870,Bearing Fault
+5871,Bearing Fault
+5872,Normal
+5873,Normal
+5874,Bearing Fault
+5875,Bearing Fault
+5876,Normal
+5877,Normal
+5878,Bearing Fault
+5879,Normal
+5880,Normal
+5881,Bearing Fault
+5882,Normal
+5883,Bearing Fault
+5884,Normal
+5885,Normal
+5886,Normal
+5887,Normal
+5888,Normal
+5889,Normal
+5890,Normal
+5891,Normal
+5892,Bearing Fault
+5893,Normal
+5894,Bearing Fault
+5895,Bearing Fault
+5896,Bearing Fault
+5897,Normal
+5898,Normal
+5899,Normal
+5900,Normal
+5901,Normal
+5902,Normal
+5903,Bearing Fault
+5904,Bearing Fault
+5905,Normal
+5906,Normal
+5907,Normal
+5908,Bearing Fault
+5909,Normal
+5910,Normal
+5911,Bearing Fault
+5912,Normal
+5913,Normal
+5914,Normal
+5915,Normal
+5916,Normal
+5917,Bearing Fault
+5918,Normal
+5919,Normal
+5920,Normal
+5921,Normal
+5922,Normal
+5923,Normal
+5924,Bearing Fault
+5925,Bearing Fault
+5926,Normal
+5927,Normal
+5928,Bearing Fault
+5929,Normal
+5930,Bearing Fault
+5931,Normal
+5932,Normal
+5933,Normal
+5934,Normal
+5935,Normal
+5936,Normal
+5937,Normal
+5938,Bearing Fault
+5939,Normal
+5940,Normal
+5941,Imbalance
+5942,Normal
+5943,Imbalance
+5944,Normal
+5945,Normal
+5946,Normal
+5947,Normal
+5948,Normal
+5949,Normal
+5950,Normal
+5951,Bearing Fault
+5952,Normal
+5953,Normal
+5954,Normal
+5955,Imbalance
+5956,Bearing Fault
+5957,Normal
+5958,Normal
+5959,Normal
+5960,Bearing Fault
+5961,Normal
+5962,Imbalance
+5963,Normal
+5964,Normal
+5965,Normal
+5966,Normal
+5967,Bearing Fault
+5968,Normal
+5969,Bearing Fault
+5970,Normal
+5971,Normal
+5972,Bearing Fault
+5973,Normal
+5974,Normal
+5975,Normal
+5976,Normal
+5977,Normal
+5978,Bearing Fault
+5979,Normal
+5980,Normal
+5981,Normal
+5982,Normal
+5983,Normal
+5984,Normal
+5985,Imbalance
+5986,Normal
+5987,Normal
+5988,Normal
+5989,Normal
+5990,Normal
+5991,Normal
+5992,Bearing Fault
+5993,Normal
+5994,Normal
+5995,Bearing Fault
+5996,Normal
+5997,Bearing Fault
+5998,Normal
+5999,Normal
+6000,Normal
+6001,Normal
+6002,Normal
+6003,Bearing Fault
+6004,Bearing Fault
+6005,Normal
+6006,Normal
+6007,Normal
+6008,Normal
+6009,Normal
+6010,Normal
+6011,Normal
+6012,Normal
+6013,Normal
+6014,Normal
+6015,Normal
+6016,Bearing Fault
+6017,Normal
+6018,Normal
+6019,Normal
+6020,Bearing Fault
+6021,Normal
+6022,Normal
+6023,Bearing Fault
+6024,Normal
+6025,Normal
+6026,Bearing Fault
+6027,Bearing Fault
+6028,Normal
+6029,Normal
+6030,Bearing Fault
+6031,Bearing Fault
+6032,Normal
+6033,Normal
+6034,Bearing Fault
+6035,Normal
+6036,Bearing Fault
+6037,Normal
+6038,Normal
+6039,Normal
+6040,Bearing Fault
+6041,Bearing Fault
+6042,Normal
+6043,Normal
+6044,Bearing Fault
+6045,Normal
+6046,Normal
+6047,Bearing Fault
+6048,Normal
+6049,Normal
+6050,Bearing Fault
+6051,Normal
+6052,Normal
+6053,Bearing Fault
+6054,Bearing Fault
+6055,Bearing Fault
+6056,Normal
+6057,Normal
+6058,Normal
+6059,Bearing Fault
+6060,Normal
+6061,Normal
+6062,Normal
+6063,Normal
+6064,Normal
+6065,Normal
+6066,Normal
+6067,Normal
+6068,Normal
+6069,Normal
+6070,Normal
+6071,Normal
+6072,Normal
+6073,Bearing Fault
+6074,Normal
+6075,Normal
+6076,Bearing Fault
+6077,Normal
+6078,Normal
+6079,Normal
+6080,Normal
+6081,Normal
+6082,Bearing Fault
+6083,Normal
+6084,Normal
+6085,Bearing Fault
+6086,Normal
+6087,Normal
+6088,Normal
+6089,Normal
+6090,Normal
+6091,Normal
+6092,Normal
+6093,Normal
+6094,Normal
+6095,Bearing Fault
+6096,Bearing Fault
+6097,Normal
+6098,Bearing Fault
+6099,Normal
+6100,Bearing Fault
+6101,Bearing Fault
+6102,Normal
+6103,Normal
+6104,Bearing Fault
+6105,Bearing Fault
+6106,Normal
+6107,Normal
+6108,Bearing Fault
+6109,Normal
+6110,Normal
+6111,Normal
+6112,Normal
+6113,Normal
+6114,Normal
+6115,Bearing Fault
+6116,Normal
+6117,Normal
+6118,Normal
+6119,Bearing Fault
+6120,Bearing Fault
+6121,Bearing Fault
+6122,Normal
+6123,Normal
+6124,Bearing Fault
+6125,Normal
+6126,Normal
+6127,Normal
+6128,Normal
+6129,Bearing Fault
+6130,Normal
+6131,Normal
+6132,Normal
+6133,Normal
+6134,Normal
+6135,Bearing Fault
+6136,Normal
+6137,Bearing Fault
+6138,Bearing Fault
+6139,Normal
+6140,Normal
+6141,Normal
+6142,Normal
+6143,Normal
+6144,Normal
+6145,Normal
+6146,Normal
+6147,Normal
+6148,Normal
+6149,Normal
+6150,Normal
+6151,Normal
+6152,Normal
+6153,Bearing Fault
+6154,Bearing Fault
+6155,Normal
+6156,Bearing Fault
+6157,Normal
+6158,Normal
+6159,Normal
+6160,Normal
+6161,Normal
+6162,Normal
+6163,Normal
+6164,Normal
+6165,Normal
+6166,Normal
+6167,Normal
+6168,Bearing Fault
+6169,Normal
+6170,Bearing Fault
+6171,Normal
+6172,Bearing Fault
+6173,Normal
+6174,Imbalance
+6175,Normal
+6176,Normal
+6177,Normal
+6178,Normal
+6179,Normal
+6180,Normal
+6181,Normal
+6182,Normal
+6183,Normal
+6184,Normal
+6185,Normal
+6186,Normal
+6187,Normal
+6188,Normal
+6189,Normal
+6190,Normal
+6191,Normal
+6192,Normal
+6193,Normal
+6194,Normal
+6195,Normal
+6196,Bearing Fault
+6197,Normal
+6198,Normal
+6199,Bearing Fault
+6200,Normal
+6201,Bearing Fault
+6202,Normal
+6203,Normal
+6204,Bearing Fault
+6205,Bearing Fault
+6206,Normal
+6207,Bearing Fault
+6208,Normal
+6209,Normal
+6210,Normal
+6211,Bearing Fault
+6212,Normal
+6213,Normal
+6214,Normal
+6215,Normal
+6216,Normal
+6217,Bearing Fault
+6218,Normal
+6219,Bearing Fault
+6220,Normal
+6221,Imbalance
+6222,Normal
+6223,Normal
+6224,Normal
+6225,Normal
+6226,Normal
+6227,Bearing Fault
+6228,Bearing Fault
+6229,Normal
+6230,Imbalance
+6231,Normal
+6232,Bearing Fault
+6233,Normal
+6234,Normal
+6235,Normal
+6236,Normal
+6237,Bearing Fault
+6238,Bearing Fault
+6239,Normal
+6240,Bearing Fault
+6241,Bearing Fault
+6242,Bearing Fault
+6243,Normal
+6244,Normal
+6245,Normal
+6246,Normal
+6247,Normal
+6248,Normal
+6249,Bearing Fault
+6250,Normal
+6251,Normal
+6252,Normal
+6253,Normal
+6254,Normal
+6255,Bearing Fault
+6256,Normal
+6257,Normal
+6258,Normal
+6259,Normal
+6260,Normal
+6261,Normal
+6262,Normal
+6263,Normal
+6264,Normal
+6265,Normal
+6266,Bearing Fault
+6267,Normal
+6268,Normal
+6269,Bearing Fault
+6270,Normal
+6271,Normal
+6272,Normal
+6273,Normal
+6274,Bearing Fault
+6275,Bearing Fault
+6276,Normal
+6277,Bearing Fault
+6278,Normal
+6279,Normal
+6280,Normal
+6281,Normal
+6282,Bearing Fault
+6283,Normal
+6284,Bearing Fault
+6285,Normal
+6286,Normal
+6287,Bearing Fault
+6288,Bearing Fault
+6289,Normal
+6290,Normal
+6291,Normal
+6292,Normal
+6293,Normal
+6294,Normal
+6295,Normal
+6296,Normal
+6297,Normal
+6298,Normal
+6299,Normal
+6300,Bearing Fault
+6301,Normal
+6302,Bearing Fault
+6303,Normal
+6304,Bearing Fault
+6305,Normal
+6306,Normal
+6307,Normal
+6308,Normal
+6309,Bearing Fault
+6310,Normal
+6311,Bearing Fault
+6312,Normal
+6313,Normal
+6314,Normal
+6315,Normal
+6316,Normal
+6317,Normal
+6318,Normal
+6319,Normal
+6320,Normal
+6321,Normal
+6322,Bearing Fault
+6323,Normal
+6324,Normal
+6325,Bearing Fault
+6326,Normal
+6327,Normal
+6328,Normal
+6329,Normal
+6330,Normal
+6331,Normal
+6332,Normal
+6333,Normal
+6334,Bearing Fault
+6335,Bearing Fault
+6336,Normal
+6337,Normal
+6338,Normal
+6339,Normal
+6340,Bearing Fault
+6341,Normal
+6342,Normal
+6343,Bearing Fault
+6344,Normal
+6345,Normal
+6346,Normal
+6347,Normal
+6348,Bearing Fault
+6349,Normal
+6350,Imbalance
+6351,Bearing Fault
+6352,Bearing Fault
+6353,Normal
+6354,Normal
+6355,Bearing Fault
+6356,Normal
+6357,Normal
+6358,Normal
+6359,Normal
+6360,Normal
+6361,Normal
+6362,Normal
+6363,Normal
+6364,Normal
+6365,Normal
+6366,Bearing Fault
+6367,Normal
+6368,Bearing Fault
+6369,Bearing Fault
+6370,Normal
+6371,Normal
+6372,Normal
+6373,Normal
+6374,Bearing Fault
+6375,Bearing Fault
+6376,Normal
+6377,Normal
+6378,Normal
+6379,Normal
+6380,Normal
+6381,Normal
+6382,Normal
+6383,Bearing Fault
+6384,Bearing Fault
+6385,Normal
+6386,Bearing Fault
+6387,Bearing Fault
+6388,Normal
+6389,Normal
+6390,Bearing Fault
+6391,Normal
+6392,Normal
+6393,Normal
+6394,Normal
+6395,Normal
+6396,Normal
+6397,Normal
+6398,Bearing Fault
+6399,Bearing Fault
