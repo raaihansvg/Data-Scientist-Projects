@@ -27,6 +27,7 @@ Fokus utama repo ini mencakup:
 | Project Name | Deskripsi | Link |
 |--------------|-----------|------|
 | **IMDB Sentiment Analysis** | Klasifikasi sentimen review film menggunakan TF-IDF + Logistic Regression | [Lihat Project](Sentiment-Analysis-IMDB/) |
+| **Fault Type Classification** | Deteksi jenis kerusakan pada rotating equipment menggunakan Random Forest, HGB, dan MLP | [Lihat Project](Fault-Type-Classification/) |
 
 ---
 
@@ -38,5 +39,12 @@ Data-Scientist-Projects/
    ├── Sentiment_Analysis_clean.ipynb
 │  ├── README.md
 
+└── Fault-Type-Classification/
+│ ├── Fault_Type.ipynb
+│ ├── models/
+| ├── data/
+│ ├── submission_predictions.csv
+│ └── description.md
+│
 └── (Project lainnya ditambahkan di sini)
 ```
