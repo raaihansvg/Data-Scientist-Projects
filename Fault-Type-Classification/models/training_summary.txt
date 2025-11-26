@@ -1,0 +1,4 @@
+hasil={'RandomForest': 1.0, 'XGBoost/HGB': None, 'MLP': None}
+best_model=RandomForest
+validation_accuracy=1.0
+refit_time_s=2.8
