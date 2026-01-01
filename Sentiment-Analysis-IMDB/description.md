@@ -104,4 +104,7 @@ Project ini nunjukin bahwa dengan teknik NLP dasar seperti TF-IDF dan Logistic R
 
 Intinya: prosesnya simpel, hasilnya kuat, dan model ini sudah cukup buat banyak kebutuhan real-world seperti analisis review atau monitoring opini. Project ini juga bisa jadi dasar buat ngembangin model NLP yang lebih advanced nantinya.
 
+## Limitations
+Model dasar TF-IDF + Regresi Logistik mengalami kesulitan dengan kata yang berbasis negasi tertentu seperti "not bad" dan sebagai nya, dimana kombinasi linier fitur masih didominasi dengan prediksi negatif.
+
 
