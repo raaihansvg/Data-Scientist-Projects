@@ -20,7 +20,7 @@ Ruang lingkup analisis meliputi:
 | File / Folder | Deskripsi |
 |---------------|----------|
 | `Poverty-Analysis-Indonesia.ipynb` | Notebook utama berisi EDA, modeling, clustering, dan visualisasi |
-| `README.md` | Dokumentasi project |
+| `description.md` | Dokumentasi project |
 | `data/` | Dataset kemiskinan Indonesia (BPS) |
 
 ---
