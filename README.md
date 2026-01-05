@@ -29,7 +29,7 @@ Fokus utama repo ini mencakup:
 | **IMDB Sentiment Analysis** | Klasifikasi sentimen review film menggunakan TF-IDF + Logistic Regression | [Lihat Project](Sentiment-Analysis-IMDB/) |
 | **Fault Type Classification** | Deteksi jenis kerusakan pada rotating equipment menggunakan Random Forest, HGB, dan MLP | [Lihat Project](Fault-Type-Classification/) |
 | **Indonesia Poverty Analysis** | Analisis kemiskinan provinsi di Indonesia menggunakan regresi, clustering, dan visualisasi spasial berbasis data BPS | [Lihat Project](poverty-analysis-indonesia-regression-clustering/) |
-
+| **Melbourne Price Home Prediction** | On Going GNG!
 
 ---
 
@@ -52,6 +52,8 @@ Data-Scientist-Projects/
 |  ├── Poverty-Analysis-Indonesia.ipynb
 |  ├── description.md
 |  ├── data/
+│
+└── Melbourne-Price-Home-Prediction(On Going GNG!)/
 └── (Project lainnya ditambahkan di sini)
 ```
 
