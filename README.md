@@ -54,9 +54,9 @@ Data-Scientist-Projects/
 |  ├── data/
 │
 └── Melbourne-Price-Home-Prediction(On Going GNG!)/
-   ├── Poverty-Analysis-Indonesia.ipynb
+|  ├── Melbourne-Price-Indonesia.ipynb
 |  ├── description.md
-   ├── data/
+|  ├── data/
 └── (Project lainnya ditambahkan di sini)
 ```
 
