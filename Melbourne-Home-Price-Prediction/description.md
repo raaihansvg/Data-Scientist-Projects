@@ -12,12 +12,4 @@ Membangun model Machine Learning untuk memprediksi harga rumah di Melbourne
 berdasarkan fitur properti dan lokasi, serta melakukan analisis faktor-faktor
 yang memengaruhi harga rumah.
 
-ini
-1
-2
-3
-49
-5
-6
-7
-829
+ini much better dr kmrn tapi blm selesai baru sampe feature important
