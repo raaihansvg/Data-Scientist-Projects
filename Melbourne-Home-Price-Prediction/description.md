@@ -96,7 +96,7 @@ This demonstrates that the model is not only evaluated offline, but also **ready
 ## Repository Structure
 | File                         | Description                             |
 |------------------------------|---------------------------------------------|
-| `melbourne-house-predict` | Notebook       |
+| `Melbourne-House-Predict` | Notebook       |
 | `description.md`                  | Project Description                       |
 | `data`                  | Dataset                        |
 | `melbourne_house_price_model.pkl`                  | Saved trained model used to predict Melbourne house prices |
