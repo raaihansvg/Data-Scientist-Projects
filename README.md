@@ -15,7 +15,7 @@ Fokus utama repo ini mencakup:
 ---
 
 ## BADGES
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
