@@ -62,6 +62,7 @@ Data-Scientist-Projects/
 |  ├── data/
 └── (Project lainnya ditambahkan di sini)
 ```
+## License
+This repository is licensed under the MIT License.
 
-<!-- testing pull shark achievement -->
 
