@@ -55,7 +55,7 @@ Data-Scientist-Projects/
 |  ├── description.md
 |  ├── data/
 │
-└── Melbourne-Price-Home-Prediction(On Going GNG!)/
+└── Melbourne-Price-Home-Prediction/
 |  ├── Melbourne-House-Predict.ipynb
 |  ├── description.md
 |  ├── melbourne_house_price_model.pkl
