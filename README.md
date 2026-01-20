@@ -62,6 +62,7 @@ Data-Scientist-Projects/
 |  ├── data/
 |
 └── Housing-Price(OnGoingGng!)
+|  ├── Housing-Price.ipynb
 |  ├── data/
 |  ├── description.md
 └── (Project lainnya ditambahkan di sini)
