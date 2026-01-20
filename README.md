@@ -61,7 +61,7 @@ Data-Scientist-Projects/
 |  ├── melbourne_house_price_model.pkl
 |  ├── data/
 |
-└── Housing-Price(OnGoingGng!)/
+└── Housing-Price-Prediction(OnGoingGng!)/
 |  ├── Housing-Price.ipynb
 |  ├── data/
 |  ├── description.md
