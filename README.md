@@ -6,11 +6,17 @@ Setiap project ditempatkan dalam folder terpisah dengan dokumentasi dan notebook
 
 Fokus utama repo ini mencakup:
 
+- End-to-End Data Science Projects  
 - Machine Learning  
 - Natural Language Processing (NLP)  
-- Data Cleaning dan Preprocessing  
+- Data Cleaning & Preprocessing  
+- Feature Engineering  
 - Exploratory Data Analysis (EDA)  
-- Model Evaluation & Deployment Concepts  
+- Model Evaluation & Model Selection  
+- Deployment Concepts  
+
+
+
 
 ---
 
