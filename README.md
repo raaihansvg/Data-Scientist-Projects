@@ -61,9 +61,10 @@ Data-Scientist-Projects/
 |  ├── melbourne_house_price_model.pkl
 |  ├── data/
 |
-└── Housing-Price-Prediction(OnGoingGng!)/
-|  ├── Housing-Price.ipynb
-|  ├── data/
+└── California-Housing/
+|  ├── California-Housing-Price-Prediction.ipynb
+|  ├── Data/
+|  ├── calfornia_house_price_model.pkl
 |  ├── description.md
 └── (Project lainnya ditambahkan di sini)
 ```
