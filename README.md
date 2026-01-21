@@ -30,6 +30,8 @@ Fokus utama repo ini mencakup:
 | **Fault Type Classification** | Deteksi jenis kerusakan pada rotating equipment menggunakan Random Forest, HGB, dan MLP | [Lihat Project](Fault-Type-Classification/) |
 | **Indonesia Poverty Analysis** | Analisis kemiskinan provinsi di Indonesia menggunakan regresi, clustering, dan visualisasi spasial berbasis data BPS | [Lihat Project](poverty-analysis-indonesia-regression-clustering/) |
 | **Melbourne Price Home Prediction** | End-to-end regression pipeline untuk memprediksi harga rumah di Melbourne dengan validasi & inference demo | [View Project](Melbourne-Home-Price-Prediction/) |
+| **California Housing Price Prediction** | End-to-end regression pipeline untuk prediksi median harga rumah dengan XGBoost & inference demo| [View Project](California-Housing/) |
+
 
 ---
 
