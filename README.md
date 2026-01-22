@@ -37,6 +37,7 @@ Fokus utama repo ini mencakup:
 | **Indonesia Poverty Analysis** | Analisis kemiskinan provinsi di Indonesia menggunakan regresi, clustering, dan visualisasi spasial berbasis data BPS | [Lihat Project](poverty-analysis-indonesia-regression-clustering/) |
 | **Melbourne Price Home Prediction** | End-to-end regression pipeline untuk memprediksi harga rumah di Melbourne dengan validasi & inference demo | [View Project](Melbourne-Home-Price-Prediction/) |
 | **California Housing Price Prediction** | End-to-end regression pipeline untuk prediksi median harga rumah dengan XGBoost & inference demo| [View Project](California-Housing/) |
+| **Predicting-User-Total-Spending-Based-on-Shopping-Behavior** | End-to-end machine learning regression pipeline for predicting user total spending from transactional behavior, including data preprocessing, feature engineering, and model comparison.| [View Project](Predicting-User-Total-Spending-Based-on-Shopping-Behavior/) |
 
 
 ---
@@ -73,6 +74,11 @@ Data-Scientist-Projects/
 |  ├── California-Housing-Price-Prediction.ipynb
 |  ├── Data/
 |  ├── calfornia_house_price_model.pkl
+|  ├── description.md
+|
+└── Predicting-User-Total-Spending-Based-on-Shopping-Behavior(On Going GNG)/
+|  ├── Customer-Spending-Prediction.ipynb
+|  ├── Data/
 |  ├── description.md
 └── (Project lainnya ditambahkan di sini)
 ```
