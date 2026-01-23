@@ -1,6 +1,6 @@
 # User Spending Prediction (Behavior-Based Regression)
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on predicting **user-level spending** in an e-commerce platform using **pure behavioral features**.  
 The main objective is not to maximize model accuracy through transactional leakage, but to build a **realistic, production-ready model** that reflects real-world data constraints.
 
@@ -14,7 +14,7 @@ The project follows an **end-to-end Data Scientist workflow**:
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 To understand **what behavioral signals are associated with higher user spending**, and assess how far user spending can be predicted **without relying on transaction-derived features** such as price averages.
 
 This mirrors a common real-world constraint where:
@@ -23,7 +23,7 @@ This mirrors a common real-world constraint where:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 Source: **Olist E-commerce Dataset (Kaggle)**
 
 Original dataset contains multiple tables (orders, order items, customers, products, etc.).  
@@ -31,7 +31,7 @@ After joining and aggregation, the data is transformed into a **user-level datas
 
 ---
 
-## 🧩 Feature Engineering Strategy
+## Feature Engineering Strategy
 
 ### 🔹 Features Used (Behavioral Only)
 The final model uses the following features:
@@ -44,11 +44,11 @@ The final model uses the following features:
 
 Log transformation was applied where appropriate to **compress extreme values** and stabilize learning.
 
-> ⚠️ **Transaction-derived features such as `avg_item_price` and `avg_order_value` were intentionally excluded to avoid data leakage.**
+>  **Transaction-derived features such as `avg_item_price` and `avg_order_value` were intentionally excluded to avoid data leakage.**
 
 ---
 
-## 🚫 Data Leakage Prevention
+## Data Leakage Prevention
 Several features that strongly correlate with the target were explicitly removed:
 - `total_spending`
 - `avg_item_price`
@@ -63,7 +63,7 @@ This decision ensures:
 
 ---
 
-## 🔍 Feature Relevance (Mutual Information)
+## Feature Relevance (Mutual Information)
 
 | Feature | Mutual Information |
 |------|-------------------|
@@ -80,7 +80,7 @@ No single feature dominates the prediction. All features provide **weak but cons
 
 ---
 
-## 🤖 Modeling & Evaluation
+##  Modeling & Evaluation
 
 Target variable:
 - `log_total_spending` (log-transformed to handle skewness)
@@ -90,7 +90,7 @@ Models evaluated:
 - Random Forest Regressor
 - XGBoost Regressor
 
-### 📊 Cross-Validated RMSE
+### Cross-Validated RMSE
 
 | Model | Mean RMSE | Std |
 |-----|----------|-----|
@@ -107,7 +107,7 @@ This suggests an **information ceiling caused by feature limitations**, not mode
 
 ---
 
-## 📉 Key Findings & Business Insights
+## Key Findings & Business Insights
 
 - User spending is driven more by **purchase volume and intensity** than by user tenure.
 - Being a long-tenured user does not guarantee high spending.
@@ -116,7 +116,7 @@ This suggests an **information ceiling caused by feature limitations**, not mode
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 This project intentionally uses a **limited feature set**.
 
 Although the original Kaggle dataset provides richer information (e.g. product categories, payment methods, shipping data), only a subset of features was used to:
@@ -130,7 +130,7 @@ As a result:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 Potential extensions include:
 - Product category-level features
 - Promotion or discount signals
@@ -140,7 +140,7 @@ Potential extensions include:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 This project demonstrates that **clean, leakage-free models often produce modest performance**, but offer far greater real-world value.
 
 Rather than chasing inflated metrics, the focus is placed on:
@@ -150,5 +150,5 @@ Rather than chasing inflated metrics, the focus is placed on:
 
 ---
 
-## 🧠 Author Notes
+## Author Notes
 This project is designed to reflect **day-to-day work of a Data Scientist**, emphasizing decision-making, trade-offs, and interpretability over raw model scores.
