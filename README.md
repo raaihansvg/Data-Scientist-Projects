@@ -81,7 +81,7 @@ Data-Scientist-Projects/
 |  ├── Data/
 |  ├── description.md
 |
-└── Student-Performance/
+└── Student-Performance(onGoing gng)/
 |  ├── Student-Performance.ipynb
 |  ├── Data/
 |  ├── description.md
