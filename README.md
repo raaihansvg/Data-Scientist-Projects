@@ -76,8 +76,13 @@ Data-Scientist-Projects/
 |  ├── calfornia_house_price_model.pkl
 |  ├── description.md
 |
-└── Predicting-User-Total-Spending-Based-on-Shopping-Behavior(On Going GNG)/
+└── Predicting-User-Total-Spending-Based-on-Shopping-Behavior/
 |  ├── Customer-Spending-Prediction.ipynb
+|  ├── Data/
+|  ├── description.md
+|
+└── Student-Performance/
+|  ├── Student-Performance.ipynb
 |  ├── Data/
 |  ├── description.md
 └── (Project lainnya ditambahkan di sini)
