@@ -86,7 +86,7 @@ Data-Scientist-Projects/
 |
 └── Student-Performance/
 |  ├── Student-Performance.ipynb
-|
+|  ├── Student-Performance_model.pkl
 |  ├── Data/
 |  ├── description.md
 └── (Project lainnya ditambahkan di sini)
