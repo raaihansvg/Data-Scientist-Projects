@@ -1,1 +1,1 @@
-belum selesai
+SELESAI 
