@@ -29,15 +29,18 @@ Fokus utama repo ini mencakup:
 ---
 
 ## LIST OF PROJECTS
+## 📂 Projects
 
-| Project Name | Deskripsi | Link |
-|--------------|-----------|------|
-| **IMDB Sentiment Analysis** | Klasifikasi sentimen review film menggunakan TF-IDF + Logistic Regression | [Lihat Project](Sentiment-Analysis-IMDB/) |
-| **Fault Type Classification** | Deteksi jenis kerusakan pada rotating equipment menggunakan Random Forest, HGB, dan MLP | [Lihat Project](Fault-Type-Classification/) |
-| **Indonesia Poverty Analysis** | Analisis kemiskinan provinsi di Indonesia menggunakan regresi, clustering, dan visualisasi spasial berbasis data BPS | [Lihat Project](poverty-analysis-indonesia-regression-clustering/) |
-| **Melbourne Price Home Prediction** | End-to-end regression pipeline untuk memprediksi harga rumah di Melbourne dengan validasi & inference demo | [View Project](Melbourne-Home-Price-Prediction/) |
-| **California Housing Price Prediction** | End-to-end regression pipeline untuk prediksi median harga rumah dengan XGBoost & inference demo| [View Project](California-Housing/) |
-| **Predicting-User-Total-Spending-Based-on-Shopping-Behavior** | End-to-end machine learning regression pipeline for predicting user total spending from transactional behavior, including data preprocessing, feature engineering, and model comparison.| [View Project](Predicting-User-Total-Spending-Based-on-Shopping-Behavior/) |
+| Project Name | Description | Link |
+|-------------|------------|------|
+| **IMDB Sentiment Analysis** | Sentiment classification of movie reviews using **TF-IDF** and **Logistic Regression** | [View Project](Sentiment-Analysis-IMDB/) |
+| **Fault Type Classification** | Fault type detection in rotating equipment using **Random Forest**, **Histogram Gradient Boosting**, and **MLP** | [View Project](Fault-Type-Classification/) |
+| **Indonesia Poverty Analysis** | Provincial poverty analysis in Indonesia using **regression**, **clustering**, and **spatial visualization** based on BPS data | [View Project](poverty-analysis-indonesia-regression-clustering/) |
+| **Melbourne Home Price Prediction** | End-to-end regression pipeline for predicting Melbourne house prices with validation and inference demo | [View Project](Melbourne-Home-Price-Prediction/) |
+| **California Housing Price Prediction** | End-to-end regression pipeline for predicting median house prices using **XGBoost** with inference demo | [View Project](California-Housing/) |
+| **User Spending Prediction from Shopping Behavior** | End-to-end machine learning regression pipeline for predicting total user spending from transactional behavior, including preprocessing, feature engineering, and model comparison | [View Project](Predicting-User-Total-Spending-Based-on-Shopping-Behavior/) |
+| **Student Performance Prediction** | End-to-end regression pipeline using **Linear Regression** to predict student performance with preprocessing, evaluation, and inference-ready deployment | [View Project](Student-Performance/) |
+
 
 
 ---
