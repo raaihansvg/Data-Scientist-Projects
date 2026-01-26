@@ -89,6 +89,8 @@ Data-Scientist-Projects/
 |  ├── Student-Performance_model.pkl
 |  ├── Data/
 |  ├── description.md
+|
+└── Student-Academic-Performance/
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
