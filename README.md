@@ -93,7 +93,7 @@ Data-Scientist-Projects/
 └── Student-Academic-Performance/
 |  ├── Student-Academic-Performance.ipynb
 |  ├── Data/
-|  ├──
+|  ├── Description.md
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
