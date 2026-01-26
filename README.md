@@ -90,7 +90,7 @@ Data-Scientist-Projects/
 |  ├── Data/
 |  ├── description.md
 |
-└── Student-Academic-Performance/
+└── Student-Academic-Performance(On )/
 |  ├── Student-Academic-Performance.ipynb
 |  ├── Data/
 |  ├── Description.md
