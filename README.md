@@ -29,7 +29,7 @@ Fokus utama repo ini mencakup:
 ---
 
 ## LIST OF PROJECTS
-## 📂 Projects
+## Projects
 
 | Project Name | Description | Link |
 |-------------|------------|------|
