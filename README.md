@@ -90,7 +90,7 @@ Data-Scientist-Projects/
 |  ├── Data/
 |  ├── description.md
 |
-└── Student-Academic-Performance(On Going)/
+└── Student-Academic-Performance(On Going GnG)/
 |  ├── Student-Academic-Performance.ipynb
 |  ├── Data/
 |  ├── Description.md
