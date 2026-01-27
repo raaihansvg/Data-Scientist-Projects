@@ -32,7 +32,7 @@ ________________________________________________________________________________
 4. Parent Involvement -> Financial Stress : Jika keterlibatan orang tua dalam faktor ekonomi kepada anak nya terjaga maka kemungkinan anak untuk stress financial juga akan menurun
 
 
-belum selesai, next split dataa
+belum selesai, next split data
 
 
 
