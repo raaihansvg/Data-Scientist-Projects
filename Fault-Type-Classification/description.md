@@ -1,4 +1,4 @@
-#  Fault Type Classification — Rotating Equipment Analysis
+a#  Fault Type Classification — Rotating Equipment Analysis
 
 ## Project Overview
 
