@@ -1,4 +1,4 @@
-# Student Performance Prediction using Linear Regression
+# Student Performance Prediction
 
 ## Project Overview
 This project aims to predict a student's **Performance Index** based on several academic and lifestyle-related factors using **Linear Regression**.  
