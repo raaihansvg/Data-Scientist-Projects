@@ -50,28 +50,28 @@ Fokus utama repo ini mencakup:
 ## REPOSITORY STRUCTURE
 ```
 Data-Scientist-Projects/
-│── README.md
 │── Sentiment-Analysis-IMDB/
 │  ├── Sentiment_Analysis_clean.ipynb
-│  ├── README.md
+|  ├── Data
+│  ├── description.md
 │
 └── Fault-Type-Classification/
 │  ├── Fault_Type.ipynb
 │  ├── models/
-│  ├── data/
+│  ├── Data/
 │  ├── submission_predictions.csv
 │  └── description.md
 │
 └── poverty-analysis-indonesia-regression-clustering/
 |  ├── Poverty-Analysis-Indonesia.ipynb
 |  ├── description.md
-|  ├── data/
+|  ├── Data/
 │
 └── Melbourne-Price-Home-Prediction/
 |  ├── Melbourne-House-Predict.ipynb
 |  ├── description.md
 |  ├── melbourne_house_price_model.pkl
-|  ├── data/
+|  ├── Data/
 |
 └── California-Housing/
 |  ├── California-Housing-Price-Prediction.ipynb
