@@ -1,4 +1,4 @@
-# User Spending Prediction (Behavior-Based Regression)
+a# User Spending Prediction (Behavior-Based Regression)
 
 ## Project Overview
 This project focuses on predicting **user-level spending** in an e-commerce platform using **pure behavioral features**.  
