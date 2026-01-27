@@ -29,7 +29,10 @@ ________________________________________________________________________________
 1. Screen Time -> Final Gpa : Jika mengontrol aktivitas penggunaan gadget dll maka untuk mendapatkan gpa yang lebih baik akan meningkat
 2. Mental Stress -> Final Gpa : Jika sesorang tidak mengalami stress mental maka untuk kemungkinan mendapatkan gpa yang bagus akan meningkat
 3. Stress Index -> Final Gpa : Jika sesorang tidak mengalami stress maka kemungkinan untuk mendapatkan gpa yang bagus akan meningkat
-4. Parent Involvement -> Financial Stress : Jika keterlibatan orang tua dalam faktor ekonomi kepada anak nya terjaga maka kemungkinan anak untuk stress financial juga akan menurun 
+4. Parent Involvement -> Financial Stress : Jika keterlibatan orang tua dalam faktor ekonomi kepada anak nya terjaga maka kemungkinan anak untuk stress financial juga akan menurun
+
+
+belum selesai, next split data 
 
 
 
