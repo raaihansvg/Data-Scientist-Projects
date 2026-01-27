@@ -1,4 +1,4 @@
-# California Housing Price Prediction  
+# aCalifornia Housing Price Prediction  
 ### End-to-End Regression Machine Learning Project
 
 ## Project Overview
