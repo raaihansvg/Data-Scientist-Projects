@@ -10,3 +10,8 @@ mental_stress,sleep quality,private tuition,tuition hours, study room, parent in
 Target: 
 final gpa
 
+Model :
+Ridge Regression (alpha tuning)
+
+Bandingkan dengan Linear Regression
+
