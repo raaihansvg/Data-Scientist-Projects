@@ -1,4 +1,4 @@
-# Analisis Kemiskinan di Indonesia — Regresi dan Clustering (Data BPS)
+# Analisis Kemiskinan di Indonesia — Regresi dan Clustering (BPS Data)
 
 
 ## Gambaran Umum
