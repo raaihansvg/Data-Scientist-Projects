@@ -121,7 +121,7 @@ Predicted House Value (IDR): Rp 5,686,469,632
 ```
 ### The prediction represents the median house value in the given area, converted to USD and IDR purely for interpretability
 
-1
+
 
 ---
 ##  Author
