@@ -10,3 +10,4 @@ mental_stress,sleep quality,private tuition,tuition hours, study room, parent in
 Target: 
 final gpa
 
+model:
