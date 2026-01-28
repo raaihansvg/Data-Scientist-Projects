@@ -46,6 +46,17 @@ rmse_scores = -cross_val_score(
 print("Ridge RMSE")
 print("Mean:", rmse_scores.mean())
 print("Std:", rmse_scores.std())
+---
+alphas = [0.01, 0.1, 1, 10, 50]
+
+for a in alphas:
+    ridge = Ridge(alpha=a)
+    rmse = -cross_val_score(
+        ridge, TrainX, TrainY,
+        scoring='neg_root_mean_squared_error',
+        cv=5
+    ).mean()
+    print(f"alpha={a}, RMSE={rmse}")
 
 
 
