@@ -58,6 +58,17 @@ for a in alphas:
     ).mean()
     print(f"alpha={a}, RMSE={rmse}")
 
+from sklearn.linear_model import Lasso
+
+lasso = Lasso(alpha=0.001)
+
+rmse_scores = -cross_val_score(
+    lasso, TrainX, TrainY,
+    scoring='neg_root_mean_squared_error',
+    cv=5
+)
+
+print("Lasso RMSE Mean:", rmse_scores.mean())
 
 
 
