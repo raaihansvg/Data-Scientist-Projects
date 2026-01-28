@@ -33,40 +33,7 @@ ________________________________________________________________________________
 
 
 belum selesai, next split data
-from sklearn.linear_model import Ridge
 
-ridge = Ridge(alpha=1.0)
-
-rmse_scores = -cross_val_score(
-    ridge, TrainX, TrainY,
-    scoring='neg_root_mean_squared_error',
-    cv=5
-)
-
-print("Ridge RMSE")
-print("Mean:", rmse_scores.mean())
-print("Std:", rmse_scores.std())
----
-alphas = [0.01, 0.1, 1, 10, 50]
-
-for a in alphas:
-    ridge = Ridge(alpha=a)
-    rmse = -cross_val_score(
-        ridge, TrainX, TrainY,
-        scoring='neg_root_mean_squared_error',
-        cv=5
-    ).mean()
-    print(f"alpha={a}, RMSE={rmse}")
-
-from sklearn.linear_model import Lasso
-
-lasso = Lasso(alpha=0.001)
-
-rmse_scores = -cross_val_score(
-    lasso, TrainX, TrainY,
-    scoring='neg_root_mean_squared_error',
-    cv=5
-)
 
 print("Lasso RMSE Mean:", rmse_scores.mean())
 
