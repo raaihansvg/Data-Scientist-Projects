@@ -36,4 +36,20 @@ belum selesai, next kejer score
 
 
 
+academic_avg =
+(mean of math, science, english, history, computer)
+
+stress_health_index =
+(mental_stress + stress_index + illness_days) 
+- sleep_quality
+
+study_efficiency =
+(study_hours_daily + revision_hours) / screen_time
+
+socioeconomic_index =
+normalized(parent_education + family_income + device_availability)
+
+
+
+
 
