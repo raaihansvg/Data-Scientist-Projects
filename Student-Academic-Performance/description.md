@@ -51,5 +51,14 @@ normalized(parent_education + family_income + device_availability)
 
 
 
+academic_engagement =
+mean(attendance_rate,
+     assignment_avg,
+     quiz_avg,
+     project_score)
+
+overall_academic_index =
+0.6 * academic_knowledge
++ 0.4 * academic_engagement
 
 
