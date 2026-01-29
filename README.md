@@ -94,6 +94,7 @@ Data-Scientist-Projects/
 └── Student-Academic-Performance(On Going GnG!)/
 |  ├── Student-Academic-Performance.ipynb
 |  ├── Data/
+|  ├── final_gpa_model.pkl
 |  ├── Description.md
 └── (Project lainnya ditambahkan di sini)
 ```
