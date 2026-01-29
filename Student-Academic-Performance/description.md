@@ -122,5 +122,7 @@ The final model is **production-ready, explainable, and scalable**.
 ---
 
 ##  Author
-Built as an end-to-end Data Science portfolio project.
+**[Raihan Lazuardi]**  
+Aspiring Data Scientist / Machine Learning Practitioner
+
 
