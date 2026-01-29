@@ -40,6 +40,7 @@ Fokus utama repo ini mencakup:
 | **California Housing Price Prediction** | End-to-end regression pipeline for predicting median house prices using **XGBoost** with inference demo | [View Project](California-Housing/) |
 | **User Spending Prediction from Shopping Behavior** | End-to-end machine learning regression pipeline for predicting total user spending from transactional behavior, including preprocessing, feature engineering, and model comparison | [View Project](Predicting-User-Total-Spending-Based-on-Shopping-Behavior/) |
 | **Student Performance Prediction** | End-to-end regression pipeline using **Linear Regression** to predict student performance with preprocessing, evaluation, and inference-ready deployment | [View Project](Student-Performance/) |
+| **Large-Scale Student Academic Performance Prediction** | End-to-end regression project on **1M+ student records** featuring extensive EDA, feature engineering, Ridge Regression, evaluation (RMSE, MAE, R²), and inference-ready pipeline | [View Project](Student-Academic-Performance/) |
 
 
 
