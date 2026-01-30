@@ -97,7 +97,9 @@ Data-Scientist-Projects/
 |  ├── final_gpa_model.pkl
 |  ├── Description.md
 |
-└── Student-Academic-Performance(On Going GnG!)/
+└── Twitter-Sentiment-Analysis(On Going GnG!)/
+|  ├── Data/
+|  ├── Description.md
 
 └── (Project lainnya ditambahkan di sini)
 ```
