@@ -91,11 +91,14 @@ Data-Scientist-Projects/
 |  ├── Data/
 |  ├── description.md
 |
-└── Student-Academic-Performance(On Going GnG!)/
+└── Student-Academic-Performance/
 |  ├── Student-Academic-Performance.ipynb
 |  ├── Data/
 |  ├── final_gpa_model.pkl
 |  ├── Description.md
+|
+└── Student-Academic-Performance(On Going GnG!)/
+
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
