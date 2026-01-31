@@ -99,6 +99,7 @@ Data-Scientist-Projects/
 |
 └── Twitter-Sentiment-Analysis(On Going GnG!)/
 |  ├── Data/
+|  ├── Twitter.ipynb
 |  ├── Description.md
 
 └── (Project lainnya ditambahkan di sini)
