@@ -1,1 +1,1 @@
-
+blm selesai susah anj
