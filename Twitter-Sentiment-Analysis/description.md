@@ -25,3 +25,4 @@
 weakness guee:
 1. karena gua ga megang nlp jadi awam wajar
 2. Implementasi regex buat data cleaning bnr bnr awam
+a
