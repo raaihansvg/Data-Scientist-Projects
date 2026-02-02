@@ -23,4 +23,4 @@
   - Masalah gede: Sarkasm dan hiperbola,kata kasar belum tentu negatif, negasi implisit seperti not bad, cant stop playing, topic bisa data leakage, class imbalance, duplicate semantics, banyak tweet beda teks tapi makna sama
     
 weakness guee:
-1. krn
+1. karena gua ga megang nlp jadi awam wajar
