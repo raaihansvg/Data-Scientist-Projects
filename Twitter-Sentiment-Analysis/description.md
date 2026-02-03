@@ -26,3 +26,4 @@ Weakness NLP:
 1. Train data Visual (mantepin lagi)
 2. Train data cleaning khusus nya untuk regex (feature),fix missing values, fix target jika data rusak(Regex Implementation)
 3. Modeling : 1. Tfidf (sebelum modeling)
+              2. Model (Implementasi model dan pemilihan model)
