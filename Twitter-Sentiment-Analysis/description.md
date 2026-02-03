@@ -24,4 +24,4 @@
     
 Weakness NLP:
 1. Train data Visual (mantepin lagi)
-2. Train data cleaning khusus nya untuk regex,fix missing values, fix target jika
+2. Train data cleaning khusus nya untuk regex (feature),fix missing values, fix target jika
