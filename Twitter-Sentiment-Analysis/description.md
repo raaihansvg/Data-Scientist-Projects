@@ -22,6 +22,6 @@
   - Label termasuk multi class, bukan binary accuracy tidak cukup anj, jadi pake f1 per class sama cf matrix
   - Masalah gede: Sarkasm dan hiperbola,kata kasar belum tentu negatif, negasi implisit seperti not bad, cant stop playing, topic bisa data leakage, class imbalance, duplicate semantics, banyak tweet beda teks tapi makna sama
     
-Weakness:
-1. Train data 
-
+Weakness NLP:
+1. Train data Visual ()
+2. Train
