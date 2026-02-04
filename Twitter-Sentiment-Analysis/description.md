@@ -39,3 +39,4 @@ Debug Regex:
 - buff. ly / to 2WmmiP5.. to Say
 - di baris 86 ada wont't ga ke handle : I hate that this easy mayhem modifier event on mayhem won't last forever (sebelum), hate easy mayhem modifier event mayhem last forever (sesudah)
 - di baris 87 ada wont't ga ke handle : I hate saying this easy day 9 event on mayhem won’t last forever (Sebelum), hate saying easy day event mayhem last forever(sesudah)
+- di baris 88 ada wont't ga ke handle : I hate thinking that this easy mayhem modifier event on total mayhem won ’ t last forever (sebelum), hate thinking easy mayhem modifier event total mayhem last forever (sesudah)
