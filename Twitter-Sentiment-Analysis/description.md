@@ -35,5 +35,5 @@ Debug Regex:
 - @ mompou _ mumpow (_ mumpow)
 - @ mompou _ mumpow (_ mumpow)
 - . twitch.tv/punnisenpai
-- di baris 55 ada haven't ga ke handle : why does practically every man in France have slicked back hair haven’t you heard of bangs the greedy assholes (Sebelum)
+- di baris 55 ada haven't ga ke handle : why does practically every man in France have slicked back hair haven’t you heard of bangs the greedy assholes (Sebelum), practically every man france slicked back hair heard bang greedy asshole (sesudah)
 - 
