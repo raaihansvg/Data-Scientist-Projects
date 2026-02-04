@@ -43,3 +43,4 @@ Debug Regex:
 - di baris 93,94,95 ada cant't ga ke handle : I really can’t wait for this shitty mod to die (sebelum), really wait shitty mod die (sesudah) -93, I really can ’ t wait for this shitty trend starting to... die(sebelum), really wait shitty trend starting die(sesudah) -94, I seriously can’t wait on this shitty trend to die(sebelum), seriously wait shitty trend die (sesudah)
 - ada sentiment aneh di baris 142, miracle negatif
 ----- lanjut di baris 150
+aaa
