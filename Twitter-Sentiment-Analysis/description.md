@@ -30,4 +30,5 @@ Weakness NLP:
 a
 
 Debug Regex:
+- dlvr. From it / e RMTrgF
 - 
