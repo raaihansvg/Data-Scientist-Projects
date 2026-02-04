@@ -28,6 +28,7 @@ Weakness NLP:
 3. Modeling : 1. Tfidf (sebelum modeling)
               2. Model (Implementasi model dan pemilihan model)
 
+refisi : ada missing values ketika cleaning di implementasi (netral sentiment mostly)
 
 Debug Regex:
 - dlvr. From it / e RMTrgF
