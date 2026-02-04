@@ -35,3 +35,4 @@ Debug Regex:
 - @ mompou _ mumpow (_ mumpow)
 - @ mompou _ mumpow (_ mumpow)
 - . twitch.tv/punnisenpai
+- di baris 55 ada haven't ga ke handle
