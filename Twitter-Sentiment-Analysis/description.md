@@ -40,4 +40,4 @@ Debug Regex:
 - di baris 86 ada wont't ga ke handle : I hate that this easy mayhem modifier event on mayhem won't last forever (sebelum), hate easy mayhem modifier event mayhem last forever (sesudah)
 - di baris 87 ada wont't ga ke handle : I hate saying this easy day 9 event on mayhem won’t last forever (Sebelum), hate saying easy day event mayhem last forever(sesudah)
 - di baris 88 ada wont't ga ke handle : I hate thinking that this easy mayhem modifier event on total mayhem won ’ t last forever (sebelum), hate thinking easy mayhem modifier event total mayhem last forever (sesudah)
-- di baris 93 ada cant't ga ke handle : I really can’t wait for this shitty mod to die (sebelum), 
+- di baris 93 ada cant't ga ke handle : I really can’t wait for this shitty mod to die (sebelum), really wait shitty mod die (sesudah)
