@@ -37,4 +37,5 @@ Debug Regex:
 - . twitch.tv/punnisenpai
 - di baris 55 ada haven't ga ke handle : why does practically every man in France have slicked back hair haven’t you heard of bangs the greedy assholes (Sebelum), practically every man france slicked back hair heard bang greedy asshole (sesudah)
 - buff. ly / to 2WmmiP5.. to Say
-- di baris 88 ada wont't ga ke handle : I hate that this easy mayhem modifier event on mayhem won't last forever (sebelum), hate easy mayhem modifier event mayhem last forever (sesudah)
+- di baris 86 ada wont't ga ke handle : I hate that this easy mayhem modifier event on mayhem won't last forever (sebelum), hate easy mayhem modifier event mayhem last forever (sesudah)
+- di baris 87 ada wont't ga ke handle : 
