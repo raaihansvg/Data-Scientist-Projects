@@ -97,7 +97,7 @@ Data-Scientist-Projects/
 |  ├── final_gpa_model.pkl
 |  ├── Description.md
 |
-└── Twitter-Sentiment-Analysis(On Going GnG!)/
+└── Twitter-Sentiment-Analysis(Hari ini selesai bismillah)/
 |  ├── Data/
 |  ├── Twitter.ipynb
 |  ├── Description.md
