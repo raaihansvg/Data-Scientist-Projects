@@ -44,6 +44,10 @@ Debug Regex:
 - ada sentiment aneh di baris 142, miracle negatif
 ----- lanjut di baris 150
 
+
+
+REGEX AMANNNNN
+
 update = baris 15 	Live Rock - Hard music La la Varlope, RARE & the POWERFUL, Live HANDSOME i JACKPOT, Borderlands 3 ( Sega Xbox ) dlvr. From it / e RMTrgF (Sebelum), live rock hard music varlope rare powerful live handsome jackpot borderland sega xbox dlvr(sesudah)
 
 
