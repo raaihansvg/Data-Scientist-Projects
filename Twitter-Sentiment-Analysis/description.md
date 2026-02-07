@@ -1,6 +1,5 @@
 # Twitter Sentiment Analysis – Twitter Dataset
 
-
 Multi-class sentiment classification on noisy Twitter data, built using **classical NLP + Linear SVM**.
 
 This project is not just about modeling —  
@@ -91,12 +90,15 @@ predict_text("Amazing update, now my PC crashes twice as fast")
 #contoh Output
 {'prediction': 'negative'}
 
+predict_text("RTX $)()4090")
 #contoh Output
-{'prediction': 'negative'}
+{'prediction': 'irrelevant'}
 
 ```
-
 ---
+##  Author
+**[Raihan Lazuardi]**  
+Aspiring Data Scientist / Machine Learning Practitioner
 
 
 
