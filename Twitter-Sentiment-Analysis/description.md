@@ -1,5 +1,6 @@
 # Twitter Sentiment Analysis – Twitter Dataset
 
+
 Multi-class sentiment classification on noisy Twitter data, built using **classical NLP + Linear SVM**.
 
 This project is not just about modeling —  
@@ -46,6 +47,16 @@ Key columns:
 - `Label` → encoded sentiment
 
 ---
+
+##  Files in this folder
+
+| File                         | Deskripsi                                 |
+|------------------------------|---------------------------------------------|
+| `Twitter_Sentiment_Analysis.ipynb` | Notebook utama      |
+| `description.md`                  | Dokumentasi/Penjelasan project                        |
+| `Model`                  | Model Project                       |
+
+
 
 
 
