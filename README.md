@@ -41,6 +41,7 @@ Fokus utama repo ini mencakup:
 | **User Spending Prediction from Shopping Behavior** | End-to-end machine learning regression pipeline for predicting total user spending from transactional behavior, including preprocessing, feature engineering, and model comparison | [View Project](Predicting-User-Total-Spending-Based-on-Shopping-Behavior/) |
 | **Student Performance Prediction** | End-to-end regression pipeline using **Linear Regression** to predict student performance with preprocessing, evaluation, and inference-ready deployment | [View Project](Student-Performance/) |
 | **Large-Scale Student Academic Performance Prediction** | End-to-end regression project on **1M+ student records** featuring extensive EDA, feature engineering, Ridge Regression, evaluation (RMSE, MAE, R²), and inference-ready pipeline | [View Project](Student-Academic-Performance/) |
+| **Twitter Sentiment Analysis** | Multi-class sentiment classification of noisy Twitter data using **classical NLP + Linear SVM**, handling messy, sarcastic, and spam-filled tweets | [View Project](Twitter-Sentiment-Analysis/) |
 
 
 
