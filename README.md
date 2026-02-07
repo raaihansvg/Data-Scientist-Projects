@@ -101,7 +101,8 @@ Data-Scientist-Projects/
 |  ├── Data/
 |  ├── Twitter_Sentiment_Analysis.ipynb
 |  ├── Description.md
-
+|  ├── final_model.pkl
+|
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
