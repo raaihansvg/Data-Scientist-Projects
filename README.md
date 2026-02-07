@@ -98,8 +98,8 @@ Data-Scientist-Projects/
 |  ├── Description.md
 |
 └── Twitter-Sentiment-Analysis(Hari ini selesai bismillah)/
-|  ├── Data/a
-|  ├── Twitter.ipynb
+|  ├── Data/
+|  ├── Twitter_Sentiment_Analysis.ipynb
 |  ├── Description.md
 
 └── (Project lainnya ditambahkan di sini)
