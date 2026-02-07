@@ -54,6 +54,7 @@ Key columns:
 |------------------------------|---------------------------------------------|
 | `Twitter_Sentiment_Analysis.ipynb` | Notebook utama      |
 | `description.md`                  | Dokumentasi/Penjelasan project                        |
+| `Data`                  | Dataset                       |
 | `Model`                  | Model Project                       |
 
 
