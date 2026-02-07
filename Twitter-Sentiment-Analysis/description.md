@@ -58,6 +58,53 @@ Key columns:
 | `Model`                  | Model Project                       |
 
 
+### Final Performance
+
+| Class      | Precision | Recall | F1    |
+| ---------- | --------- | ------ | ----- |
+| Negative   | ~0.92     | ~0.94  | ~0.93 |
+| Positive   | ~0.91     | ~0.91  | ~0.91 |
+| Neutral    | ~0.91     | ~0.90  | ~0.90 |
+| Irrelevant | ~0.90     | ~0.88  | ~0.89 |
+
+Accuracy: ~91%
+--- 
+
+## Demo Prediction
+
+Gunakan fungsi berikut di notebook:
+
+```python
+predict_text("Not bad I think")
+#contoh Output
+{'prediction': 'neutral'}
+
+predict_text("Nvidia delivers excellent performance with the new GPU")
+#contoh Output
+{'prediction': 'positive'}
+
+predict_text("I regret buying this GPU, worst purchase ever")
+#contoh Output
+{'prediction': 'negative'}
+
+predict_text("Amazing update, now my PC crashes twice as fast")
+#contoh Output
+{'prediction': 'negative'}
+
+#contoh Output
+{'prediction': 'negative'}
+
+```
+
+---
+
+
+
+
+
+
+
+
 
 
 
