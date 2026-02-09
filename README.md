@@ -105,6 +105,7 @@ Data-Scientist-Projects/
 |  ├── final_model.pkl
 |
 └── Financial-Sentiment-Analysis/
+|  ├── Data/
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
