@@ -106,6 +106,7 @@ Data-Scientist-Projects/
 |
 └── Financial-Sentiment-Analysis/
 |  ├── Data/
+|  ├── Notebook.ipynb
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
