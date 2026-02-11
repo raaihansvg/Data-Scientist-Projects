@@ -112,6 +112,7 @@ Data-Scientist-Projects/
 └── Amazon-Sales-Prediction(On Going Gng)/
 |  ├── Data/
 |  ├── Notebook.ipynb
+|  ├── Description.md
 |
 └── (Project lainnya ditambahkan di sini)
 ```
