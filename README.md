@@ -110,6 +110,7 @@ Data-Scientist-Projects/
 |  ├── Description.md
 |
 └── Amazon-Sales-Prediction(On Going Gng)/
+|  ├── Data/
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
