@@ -104,7 +104,7 @@ Data-Scientist-Projects/
 |  ├── Description.md
 |  ├── final_model.pkl
 |
-└── Financial-Sentiment-Analysis (On Going GnG!)/
+└── Financial-Sentiment-Analysis/
 |  ├── Data/
 |  ├── Notebook.ipynb
 |  ├── Description.md
