@@ -111,7 +111,7 @@ Data-Scientist-Projects/
 |
 └── Amazon-Sales-Prediction(On Going Gng)/
 |  ├── Data/
-|
+|  ├── Notebook.ipynb
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
