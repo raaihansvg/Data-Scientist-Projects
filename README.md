@@ -109,6 +109,7 @@ Data-Scientist-Projects/
 |  ├── Notebook.ipynb
 |  ├── Description.md
 |
+└── (On Going Gng)/
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
