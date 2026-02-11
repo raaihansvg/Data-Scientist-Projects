@@ -109,7 +109,7 @@ Data-Scientist-Projects/
 |  ├── Notebook.ipynb
 |  ├── Description.md
 |
-└── (On Going Gng)/
+└── Amazon-Sales-Prediction(On Going Gng)/
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
