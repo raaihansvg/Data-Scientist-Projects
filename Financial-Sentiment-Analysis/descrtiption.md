@@ -56,4 +56,4 @@ print(result)
 
 ##  Conclusion
 
-This project demonstrates that even with a **limited dataset of 5,000 samples**, a domain-specific transformer model like **FinBERT** can achieve a **robust F1-Score of 0.76**. This performance is suitable for practical applications in monitoring market sentiment, where understanding context is more important than sheer data volume.
+This project demonstrates that even with a **limited dataset of 5,000 samples and imbalance data**, a domain-specific transformer model like **FinBERT** can achieve a **robust F1-Score of 0.76**.
