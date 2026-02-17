@@ -1,4 +1,4 @@
-# Financial Sentiment Analysis using FinBERT
+a# Financial Sentiment Analysis using FinBERT
 
 This repository implements a **sentiment analysis model** tailored specifically for financial texts, such as stock market news, earnings reports, and financial tweets. The project leverages the **FinBERT** architecture, a specialized BERT model pre-trained on financial corpora, to better capture the nuances of business language.
 
