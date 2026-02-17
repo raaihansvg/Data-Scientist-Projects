@@ -33,15 +33,16 @@ Fokus utama repo ini mencakup:
 
 | Project Name | Description | Link |
 |-------------|------------|------|
-| **IMDB Sentiment Analysis** | Sentiment classification of movie reviews using **TF-IDF** and **Logistic Regression** | [View Project](Sentiment-Analysis-IMDB/) |
+| **IMDB Sentiment Analysis** | End-to-end Sentiment classification of movie reviews using **TF-IDF** and **Logistic Regression** | [View Project](Sentiment-Analysis-IMDB/) |
 | **Fault Type Classification** | Fault type detection in rotating equipment using **Random Forest**, **Histogram Gradient Boosting**, and **MLP** | [View Project](Fault-Type-Classification/) |
-| **Indonesia Poverty Analysis** | Provincial poverty analysis in Indonesia using **regression**, **clustering**, and **spatial visualization** based on BPS data | [View Project](poverty-analysis-indonesia-regression-clustering/) |
+| **Indonesia Poverty Analysis** | Provincial poverty End-to-end analysis in Indonesia using **regression**, **clustering**, and **spatial visualization** based on BPS data | [View Project](poverty-analysis-indonesia-regression-clustering/) |
 | **Melbourne Home Price Prediction** | End-to-end regression pipeline for predicting Melbourne house prices with validation and inference demo | [View Project](Melbourne-Home-Price-Prediction/) |
 | **California Housing Price Prediction** | End-to-end regression pipeline for predicting median house prices using **XGBoost** with inference demo | [View Project](California-Housing/) |
 | **User Spending Prediction from Shopping Behavior** | End-to-end machine learning regression pipeline for predicting total user spending from transactional behavior, including preprocessing, feature engineering, and model comparison | [View Project](Predicting-User-Total-Spending-Based-on-Shopping-Behavior/) |
 | **Student Performance Prediction** | End-to-end regression pipeline using **Linear Regression** to predict student performance with preprocessing, evaluation, and inference-ready deployment | [View Project](Student-Performance/) |
 | **Large-Scale Student Academic Performance Prediction** | End-to-end regression project on **1M+ student records** featuring extensive EDA, feature engineering, Ridge Regression, evaluation (RMSE, MAE, R²), and inference-ready pipeline | [View Project](Student-Academic-Performance/) |
 | **Twitter Sentiment Analysis** | End-to-end Multi-class sentiment classification of noisy Twitter data using **classical NLP + Linear SVM**, handling messy, sarcastic, and spam-filled tweets | [View Project](Twitter-Sentiment-Analysis/) |
+| **Financial Sentiment Analysis** | End-to-end Sentiment classification of financial texts such as stock news and earnings reports using FinBERT, handling domain-specific language nuances and imbalanced datasets | [View Project](Financial-Sentiment-Analysis/) |
 
 
 
@@ -104,9 +105,10 @@ Data-Scientist-Projects/
 |  ├── Description.md
 |  ├── final_model.pkl
 |
-└── Financial-Sentiment-Analysis(On Going Gng)/
+└── Financial-Sentiment-Analysis/
 |  ├── Data/
-|  ├── Notebook.ipynb
+|  ├── Financial-Sentiment-Analysis.ipynb
+|  ├── Model/
 |  ├── Description.md
 |
 └── Amazon-Sales-Prediction(On Going Gng)/
