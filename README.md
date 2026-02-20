@@ -111,7 +111,7 @@ Data-Scientist-Projects/
 |  ├── Model/
 |  ├── Description.md
 |
-└── Amazon-Sales-Prediction(On Going Gng)/
+└── Amazon-Sales-Prediction/
 |  ├── Data/
 |  ├── Visualization/
 |  ├── Notebook.ipynb
