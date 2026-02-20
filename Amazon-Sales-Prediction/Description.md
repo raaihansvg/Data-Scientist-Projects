@@ -29,3 +29,6 @@ scoresXGB = cross_val_score(
 )
 
 print("XGB F1:", scoresXGB.mean())
+
+
+bsk up desc
