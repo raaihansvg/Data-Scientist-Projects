@@ -43,6 +43,7 @@ Fokus utama repo ini mencakup:
 | **Large-Scale Student Academic Performance Prediction** | End-to-end regression project on **1M+ student records** featuring extensive EDA, feature engineering, Ridge Regression, evaluation (RMSE, MAE, R²), and inference-ready pipeline | [View Project](Student-Academic-Performance/) |
 | **Twitter Sentiment Analysis** | End-to-end Multi-class sentiment classification of noisy Twitter data using **classical NLP + Linear SVM**, handling messy, sarcastic, and spam-filled tweets | [View Project](Twitter-Sentiment-Analysis/) |
 | **Financial Sentiment Analysis** | End-to-end Sentiment classification of financial texts such as stock news and earnings reports using FinBERT, handling domain-specific language nuances and imbalanced datasets | [View Project](Financial-Sentiment-Analysis/) |
+| **Amazon Sales Prediction** | End-to-end Sentiment classification of financial texts such as stock news and earnings reports using FinBERT, handling domain-specific language nuances and imbalanced datasets | [View Project](Financial-Sentiment-Analysis/) |
 
 
 
