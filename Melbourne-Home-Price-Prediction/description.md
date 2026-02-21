@@ -125,9 +125,6 @@ This demonstrates that the model is not only evaluated offline, but also **ready
 **[Raihan Lazuardi]**  
 Aspiring Data Scientist / Machine Learning Practitioner
 
----
 
-## Final Note
-This project emphasizes **robust machine learning methodology**, interpretability, and real-world usability rather than leaderboard chasing.
 
 
