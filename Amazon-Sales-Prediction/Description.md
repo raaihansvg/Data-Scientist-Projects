@@ -1,4 +1,4 @@
-# Amazon Sales Revenue Classification
+s# Amazon Sales Revenue Classification
 
 End-to-end Machine Learning project to classify product sales performance using structured Amazon sales data.
 
