@@ -118,6 +118,12 @@ Data-Scientist-Projects/
 |  ├── Notebook.ipynb
 |  ├── Description.md
 |
+└── Covid-19-Indonesia(On Going Gng!)/
+|  ├── Data/
+|  ├── Visualization/
+|  ├── Notebook.ipynb
+|  ├── Description.md
+|
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
