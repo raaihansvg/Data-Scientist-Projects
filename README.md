@@ -118,7 +118,7 @@ Data-Scientist-Projects/
 |  ├── Notebook.ipynb
 |  ├── Description.md
 |
-└── Covid-19-Indonesia(On Going Gng!)/
+└── Covid-19-Indonesia/
 |  ├── Data/
 |  ├── Visualization/
 |  ├── Notebook.ipynb
