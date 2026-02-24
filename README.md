@@ -121,7 +121,7 @@ Data-Scientist-Projects/
 └── Covid-19-Indonesia/
 |  ├── Data/
 |  ├── Visualization/
-|  ├── Notebook.ipynb
+|  ├── Covid19-Indonesia-Analysis.ipynb
 |  ├── Description.md
 |
 └── (Project lainnya ditambahkan di sini)
