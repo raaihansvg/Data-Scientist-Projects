@@ -44,6 +44,7 @@ Fokus utama repo ini mencakup:
 | **Twitter Sentiment Analysis** | End-to-end Multi-class sentiment classification of noisy Twitter data using **classical NLP + Linear SVM**, handling messy, sarcastic, and spam-filled tweets | [View Project](Twitter-Sentiment-Analysis/) |
 | **Financial Sentiment Analysis** | End-to-end Sentiment classification of financial texts such as stock news and earnings reports using FinBERT, handling domain-specific language nuances and imbalanced datasets | [View Project](Financial-Sentiment-Analysis/) |
 | **Amazon Sales Prediction** | End-to-end Sentiment classification of high-performance sales classification using XGBoost to predict product success (High/Low) based on pricing, ratings, product and regional data.| [View Project](Amazon-Sales-Prediction/) |
+| **COVID-19 Indonesia Risk Clustering** | End-to-end data analysis and clustering of Indonesian provinces using Growth Factor analysis, K-Means, PCA, and Linear Regression to identify regional risk patterns and evaluate the impact of population density on COVID-19 spread. | [View Project](Covid-19-Indonesia/) |
 
 
 
