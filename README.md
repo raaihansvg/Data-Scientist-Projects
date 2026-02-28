@@ -127,7 +127,7 @@ Data-Scientist-Projects/
 |
 └── Kualitas Udara Jakarta (On going GnG)/
 |  ├── Data/
-|  ├── ipynb
+|  ├── Notebook.ipynb
 |  ├── Description.md
 |
 └── (Project lainnya ditambahkan di sini)
