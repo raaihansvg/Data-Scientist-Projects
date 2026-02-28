@@ -125,6 +125,11 @@ Data-Scientist-Projects/
 |  ├── Covid19-Indonesia-Analysis.ipynb
 |  ├── Description.md
 |
+└── Kualitas Udara Jakarta (On going GnG)/
+|  ├── Data/
+|  ├── Covid19-Indonesia-Analysis.ipynb
+|  ├── Description.md
+|
 └── (Project lainnya ditambahkan di sini)
 ```
 ## License
