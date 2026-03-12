@@ -1,4 +1,4 @@
-aaaaaaaaaaaaaaa# Data-Scientist-Projects
+aaaaaaaaaaaaaaaa# Data-Scientist-Projects
 
 ## OVERVIEW
 Repository ini berisi kumpulan project Data Science yang dibuat sebagai bagian dari proses belajar dan portofolio.  
