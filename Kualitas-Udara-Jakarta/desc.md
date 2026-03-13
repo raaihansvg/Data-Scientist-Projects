@@ -1,4 +1,4 @@
-Progress nya sekarang:
+AProgress nya sekarang:
 1.  Data ISPU udah digabungin semua
 2.  data cleaning
 3.  check anomaly
