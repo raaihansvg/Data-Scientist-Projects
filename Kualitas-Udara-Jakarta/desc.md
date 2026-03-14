@@ -8,3 +8,6 @@ terus kalo udah bersih kita proses predict tanpa make data yang lain, dan kita p
 from sklearn.metrics import classification_report
 
 print(classification_report(y_test, y_pred))
+
+
+Modelling Next
