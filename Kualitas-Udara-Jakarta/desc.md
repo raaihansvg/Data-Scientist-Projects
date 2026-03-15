@@ -15,3 +15,5 @@ print(classification_report(y_test, y_pred))
 model : xgb, accuracy = ~0.99, learning curve tidak menunjukan overfit
 
 insight : PM2.5 dan o3 (ozon) menjadi polutan yang paling berpengaruh karena hal ini sesuai dengan sikon rill di kota besar di mana debu halus kendaraan dan populasi gas kimia adalah masalah utama
+
+
